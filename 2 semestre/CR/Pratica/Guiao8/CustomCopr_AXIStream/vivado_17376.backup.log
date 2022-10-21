@@ -1,0 +1,92 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun 10 17:30:49 2022
+# Process ID: 17376
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2108 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao8\CustomCopr_AXIStream\CustomCopr_AXIStream.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:26 ; elapsed = 00:00:11 . Memory (MB): peak = 1000.656 ; gain = 0.000
+update_compile_order -fileset sources_1
+open_bd_design {C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd}
+Reading block design file <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd>...
+Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_intc:4.1 - microblaze_0_axi_intc
+Adding component instance block -- xilinx.com:ip:xlconcat:2.1 - microblaze_0_xlconcat
+Adding component instance block -- xilinx.com:ip:mdm:3.2 - mdm_1
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_clk_wiz_1_100M
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_switches
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_leds
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_buttons
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_displays
+Adding component instance block -- xilinx.com:ip:axi_uartlite:2.0 - axi_uartlite_0
+Adding component instance block -- xilinx.com:ip:axi_timer:2.0 - axi_timer_0
+Adding component instance block -- xilinx.com:ip:fit_timer:2.0 - fit_timer_0
+Adding component instance block -- xilinx.com:user:ReverseEndiannessCop:1.0 - ReverseEndiannessCop_0
+Adding component instance block -- xilinx.com:user:PopCount:1.0 - PopCount_0
+Successfully read diagram <mb_design> from block design file <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd>
+open_bd_design: Time (s): cpu = 00:00:31 ; elapsed = 00:00:21 . Memory (MB): peak = 1000.656 ; gain = 0.000
+ipx::edit_ip_in_project -upgrade true -name ReverseEndiannessCop_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/ReverseEndiannessCop_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0/component.xml
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project'
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+create_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:09 . Memory (MB): peak = 1095.602 ; gain = 47.039
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'.
+INFO: [IP_Flow 19-795] Syncing license key meta-data
+ipx::edit_ip_in_project: Time (s): cpu = 00:00:25 ; elapsed = 00:00:12 . Memory (MB): peak = 1098.711 ; gain = 50.148
+update_compile_order -fileset sources_1
+current_project CustomCopr_AXIStream
+current_project ReverseEndiannessCop_v1_0_project
+close_project
+ipx::edit_ip_in_project -upgrade true -name PopCount_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/PopCount_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0/component.xml
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/popcount_v1_0_project'
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+create_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1115.734 ; gain = 0.000
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'.
+INFO: [IP_Flow 19-795] Syncing license key meta-data
+ipx::edit_ip_in_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:07 . Memory (MB): peak = 1115.734 ; gain = 0.000
+update_compile_order -fileset sources_1
+close_project
+ipx::edit_ip_in_project -upgrade true -name ReverseEndiannessCop_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/ReverseEndiannessCop_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0/component.xml
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project'
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+create_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:05 . Memory (MB): peak = 1118.172 ; gain = 2.438
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'.
+INFO: [IP_Flow 19-795] Syncing license key meta-data
+ipx::edit_ip_in_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1119.980 ; gain = 4.246
+update_compile_order -fileset sources_1
+current_project CustomCopr_AXIStream

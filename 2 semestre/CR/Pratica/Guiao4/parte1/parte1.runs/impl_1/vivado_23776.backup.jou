@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Apr  2 17:55:40 2022
+# Process ID: 23776
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte1/parte1.runs/impl_1
+# Command line: vivado.exe -log countdown_timer.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source countdown_timer.tcl -notrace
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte1/parte1.runs/impl_1/countdown_timer.vdi
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte1/parte1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source countdown_timer.tcl -notrace

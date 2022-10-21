@@ -1,0 +1,188 @@
+$comment
+	File created using the following command:
+		vcd file lRot_8bit_2_3.msim.vcd -direction
+$end
+$date
+	Tue Nov 09 16:24:38 2021
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module lrot_8bit_2_3_vhd_vec_tst $end
+$var wire 1 ! dIn [7] $end
+$var wire 1 " dIn [6] $end
+$var wire 1 # dIn [5] $end
+$var wire 1 $ dIn [4] $end
+$var wire 1 % dIn [3] $end
+$var wire 1 & dIn [2] $end
+$var wire 1 ' dIn [1] $end
+$var wire 1 ( dIn [0] $end
+$var wire 1 ) dOut [7] $end
+$var wire 1 * dOut [6] $end
+$var wire 1 + dOut [5] $end
+$var wire 1 , dOut [4] $end
+$var wire 1 - dOut [3] $end
+$var wire 1 . dOut [2] $end
+$var wire 1 / dOut [1] $end
+$var wire 1 0 dOut [0] $end
+$var wire 1 1 sel [2] $end
+$var wire 1 2 sel [1] $end
+$var wire 1 3 sel [0] $end
+
+$scope module i1 $end
+$var wire 1 4 gnd $end
+$var wire 1 5 vcc $end
+$var wire 1 6 unknown $end
+$var wire 1 7 devoe $end
+$var wire 1 8 devclrn $end
+$var wire 1 9 devpor $end
+$var wire 1 : ww_devoe $end
+$var wire 1 ; ww_devclrn $end
+$var wire 1 < ww_devpor $end
+$var wire 1 = ww_dIn [7] $end
+$var wire 1 > ww_dIn [6] $end
+$var wire 1 ? ww_dIn [5] $end
+$var wire 1 @ ww_dIn [4] $end
+$var wire 1 A ww_dIn [3] $end
+$var wire 1 B ww_dIn [2] $end
+$var wire 1 C ww_dIn [1] $end
+$var wire 1 D ww_dIn [0] $end
+$var wire 1 E ww_sel [2] $end
+$var wire 1 F ww_sel [1] $end
+$var wire 1 G ww_sel [0] $end
+$var wire 1 H ww_dOut [7] $end
+$var wire 1 I ww_dOut [6] $end
+$var wire 1 J ww_dOut [5] $end
+$var wire 1 K ww_dOut [4] $end
+$var wire 1 L ww_dOut [3] $end
+$var wire 1 M ww_dOut [2] $end
+$var wire 1 N ww_dOut [1] $end
+$var wire 1 O ww_dOut [0] $end
+$var wire 1 P \sel[2]~input_o\ $end
+$var wire 1 Q \dOut[0]~output_o\ $end
+$var wire 1 R \dOut[1]~output_o\ $end
+$var wire 1 S \dOut[2]~output_o\ $end
+$var wire 1 T \dOut[3]~output_o\ $end
+$var wire 1 U \dOut[4]~output_o\ $end
+$var wire 1 V \dOut[5]~output_o\ $end
+$var wire 1 W \dOut[6]~output_o\ $end
+$var wire 1 X \dOut[7]~output_o\ $end
+$var wire 1 Y \sel[1]~input_o\ $end
+$var wire 1 Z \dIn[7]~input_o\ $end
+$var wire 1 [ \dIn[3]~input_o\ $end
+$var wire 1 \ \blk1|mult4|or0|y~1_combout\ $end
+$var wire 1 ] \dIn[5]~input_o\ $end
+$var wire 1 ^ \dIn[1]~input_o\ $end
+$var wire 1 _ \blk1|mult4|or0|y~0_combout\ $end
+$var wire 1 ` \sel[0]~input_o\ $end
+$var wire 1 a \blk1|mult4|or0|y~2_combout\ $end
+$var wire 1 b \dIn[6]~input_o\ $end
+$var wire 1 c \dIn[2]~input_o\ $end
+$var wire 1 d \blk1|mult5|or0|y~0_combout\ $end
+$var wire 1 e \dIn[0]~input_o\ $end
+$var wire 1 f \dIn[4]~input_o\ $end
+$var wire 1 g \blk1|mult5|or0|y~1_combout\ $end
+$var wire 1 h \blk1|mult5|or0|y~2_combout\ $end
+$var wire 1 i \blk1|mult0|or0|y~0_combout\ $end
+$var wire 1 j \blk1|mult6|or0|y~0_combout\ $end
+$var wire 1 k \blk1|mult1|or0|y~0_combout\ $end
+$var wire 1 l \blk1|mult7|or0|y~0_combout\ $end
+$var wire 1 m \blk1|mult0|or0|y~1_combout\ $end
+$var wire 1 n \blk1|mult0|or0|y~2_combout\ $end
+$var wire 1 o \blk1|mult1|or0|y~1_combout\ $end
+$var wire 1 p \blk1|mult1|or0|y~2_combout\ $end
+$var wire 1 q \blk1|mult2|or0|y~0_combout\ $end
+$var wire 1 r \blk1|mult3|or0|y~0_combout\ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+04
+15
+x6
+17
+18
+19
+1:
+1;
+1<
+0P
+0Q
+1R
+1S
+0T
+1U
+0V
+0W
+1X
+0Y
+0Z
+1[
+0\
+0]
+1^
+0_
+0`
+0a
+1b
+0c
+1d
+1e
+0f
+1g
+1h
+1i
+1j
+0k
+0l
+1m
+1n
+0o
+0p
+0q
+1r
+0!
+1"
+0#
+0$
+1%
+0&
+1'
+1(
+01
+02
+03
+0=
+1>
+0?
+0@
+1A
+0B
+1C
+1D
+0E
+0F
+0G
+1H
+0I
+0J
+1K
+0L
+1M
+1N
+0O
+1)
+0*
+0+
+1,
+0-
+1.
+1/
+00
+$end
+#1000000

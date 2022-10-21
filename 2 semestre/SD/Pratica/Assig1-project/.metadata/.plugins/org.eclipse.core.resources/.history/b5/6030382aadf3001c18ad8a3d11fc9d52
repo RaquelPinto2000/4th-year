@@ -1,0 +1,111 @@
+package interfaces;
+
+import java.rmi.*;
+/**
+ *   Operational interface of a remote object of type Table.
+ *
+ *     It provides the functionality to access the Table.
+ */
+
+public interface TableInterface extends Remote{
+
+	/**
+	 * Operation take a seat
+	 *
+	 * It is called by a student when it wants to take a seat at the table
+	 * @param studentID student identifier
+	 * @return StudentStates.TKSTT
+	 * @throws RemoteException 
+	 * 
+	 */
+	public ReturnInt takeASeat(int studentID) throws RemoteException; //student
+	public void selectingCourse() throws RemoteException; //student
+	public void organizeOrder() throws RemoteException; //student
+	public void informCompanions() throws RemoteException; //student
+	public void describeOrder() throws RemoteException; //student
+	public void chat() throws RemoteException; //student
+	public void enjoyMeal() throws RemoteException; //student
+	public void waitForEveryoneToFinish() throws RemoteException; //student
+	public void honorTheBill() throws RemoteException; //student
+	public boolean lastToEat() throws RemoteException; //student
+	public boolean firstToEnter() throws RemoteException; //student
+	public boolean lastToEnterRestaurant() throws RemoteException; //student
+	
+	
+	
+	
+	
+	/**
+	 * Operation salute the client.
+	 *
+	 * It is called by a waiter to salute the client
+	 * @param waiterID waiter identifier
+	 * @return WaiterStates.PRSMN
+	 * @throws RemoteException 
+	 * 
+	 */
+	public int saluteTheClient(int waiterID)throws RemoteException; //table
+	/**
+	 * Operation get the pad
+	 *
+	 * It is called by a waiter to get the pad
+	 * @param waiterID waiter identifier
+	 * @return WaiterStates.TKODR
+	 * @throws RemoteException 
+	 * 
+	 */
+
+	public int getThePad(int waiterID) throws RemoteException; //table
+	/**
+	 * Operation deliver portion.
+	 *
+	 * It is called by a waiter to deliver a portion to a student
+	 * @throws RemoteException 
+	 * 
+	 */
+	public void deliverPortion() throws RemoteException; //table  
+	/**
+	 * Operation present the bill.
+	 *
+	 * It is called by a waiter to present the bill to the student
+	 * @param waiterID waiter identifier
+	 * @return WaiterStates.RECPM
+	 * @throws RemoteException 
+	 * 
+	 */
+	public int presentBill(int waiterID) throws RemoteException; //table
+	/**
+	 * Operation have all portions been served
+	 *
+	 * It is called by a waiter to know if all the portions have been served
+	 * 
+	 * @return true, if all the portions have been served -
+     *         false, otherwise
+	 */
+
+	public boolean haveAllPortionsBeenServed() throws RemoteException; //table
+	
+  /**
+   *  Operation end of work.
+   *
+   *   New operation.
+   *
+   *      @param studentId student id
+   *      @throws RemoteException if either the invocation of the remote method, or the communication with the registry
+   *                              service fails
+   */
+
+   public void endOperation (int studentId) throws RemoteException;
+
+  /**
+   *   Operation server shutdown.
+   *
+   *   New operation.
+   *
+   *     @throws RemoteException if either the invocation of the remote method, or the communication with the registry
+   *                             service fails
+   */
+
+   public void shutdown () throws RemoteException;
+	
+}

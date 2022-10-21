@@ -1,0 +1,133 @@
+swagger: "2.0"
+info:
+  description: "This is an example of an authentication service."
+  version: "1.0.0"
+  title: "Autentication"
+
+schemes:
+- "https"
+- "http"
+
+
+paths:
+  /user:
+    post:
+      tags:
+      - "user"
+      summary: "Create user"
+      description: "A user who wants to join."
+      operationId: "createUser"
+      produces:
+      - "application/json"
+      parameters:
+      - in: "body"
+        name: "body"
+        description: "Created user"
+        required: true
+        schema:
+          $ref: "#/definitions/User"
+      responses:
+        "200":
+          description: "Successful Operation"
+          
+  /user/login:
+    post:
+      tags:
+      - "user"
+      summary: "Logs user into the system"
+      description: ""
+      operationId: "loginUser"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwtAuthenticationRequest"
+        in: "body"
+        required: true
+        description: "token to return"
+        schema:
+          $ref: "#/definitions/Login"
+     
+     
+      responses:
+        "200":
+          description: "Successful Operation"
+          schema:
+            $ref: "#/definitions/token_response"
+        "500":
+          description: "Invalid username/password supplied"
+        "404":
+          description: "User not exists"
+   
+  /user/logout:
+    get:
+      tags:
+      - "user"
+      summary: "Logs out current logged in user session"
+      description: ""
+      operationId: "logoutUser"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        "200":
+          description: "Successful Operation"
+          
+  
+  /user/token:
+    get:
+      tags:
+      - "user"
+      summary: "Logs user into the system"
+      description: ""
+      operationId: "tokenCheck"
+      produces:
+      - "application/json"
+      parameters:
+      - name: "jwtAuthenticationRequest"
+        in: "body"
+        required: true
+        description: "token to return"
+        schema:
+          $ref: "#/definitions/token_response"
+      responses:
+        "200":
+          description: "Token is valid"
+        "500":
+          description: "Token is not valid"
+          
+definitions:
+   User:
+      type: "object"
+      properties:
+        NMeC:
+          type: "integer"
+          format: "int64"
+        Username:
+          type: "string"
+        FirstName:
+          type: "string"
+        LastName:
+          type: "string"
+        Email:
+          type: "string"
+        Password:
+          type: "string"
+      xml:
+        name: "User"
+
+   Login:
+    properties:
+      Username:
+        type: "string"
+      Password:
+        type: "string"
+    xml:
+      name: "User"
+      
+   token_response:
+      properties:
+        token:
+          type: "string"
+      xml:
+        name: "User"
+        

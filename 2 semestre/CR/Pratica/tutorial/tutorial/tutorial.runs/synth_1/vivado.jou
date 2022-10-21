@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Mar 17 11:35:08 2022
+# Process ID: 15640
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.runs/synth_1
+# Command line: vivado.exe -log tutorial.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tutorial.tcl
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.runs/synth_1/tutorial.vds
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source tutorial.tcl -notrace

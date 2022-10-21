@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Academico/UA/4 ano/1 semestre/AAD/Pratica/VHDL/Guiao5/ex2_3/simulation/qsim
+Ehard_block
+Z1 w1636475076
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx9 cycloneiv 19 cycloneiv_atom_pack 0 22 h>^;BQWjM;n:gDXGk_;g00
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DPx9 cycloneiv 20 cycloneiv_components 0 22 ZG8VboUoN;mJ7?NJMokFV1
+R0
+Z8 8lRot_8bit_2_3.vho
+Z9 FlRot_8bit_2_3.vho
+l0
+L34
+Vc_zG6gj]l9@McI1b^mKMk3
+!s100 ePBnogNIYclWVmd<QYN@33
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1636475077
+!i10b 1
+Z12 !s108 1636475077.000000
+Z13 !s90 -work|work|lRot_8bit_2_3.vho|
+Z14 !s107 lRot_8bit_2_3.vho|
+!i113 1
+Z15 o-work work
+Z16 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 10 hard_block 0 22 c_zG6gj]l9@McI1b^mKMk3
+l64
+L50
+V^TJfMN143Hleg=oLnW2^A1
+!s100 9XRhD6F>^g=RX1;2c[R1L2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Elrot_8bit_2_3
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+R0
+R8
+R9
+l0
+L77
+VG5=ldTFAz9W_ec0[NHaK10
+!s100 kV^gd]E2UjL<?7Dje^12:3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 13 lrot_8bit_2_3 0 22 G5=ldTFAz9W_ec0[NHaK10
+l163
+L107
+VIDdG?bgmY:mI;zzM8maa[2
+!s100 zFKHRFJWVm0K6jUk15Q192
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Elrot_8bit_2_3_vhd_vec_tst
+Z17 w1636475075
+R5
+R6
+R0
+Z18 8lRot_8bit_2_3.vwf.vht
+Z19 FlRot_8bit_2_3.vwf.vht
+l0
+L31
+Vg]geOfFhhl8JZgk?X;CMh2
+!s100 ;4<l8^MP1>E<8O_ee1bTL1
+R10
+32
+R11
+!i10b 1
+R12
+Z20 !s90 -work|work|lRot_8bit_2_3.vwf.vht|
+Z21 !s107 lRot_8bit_2_3.vwf.vht|
+!i113 1
+R15
+R16
+Alrot_8bit_2_3_arch
+R5
+R6
+DEx4 work 25 lrot_8bit_2_3_vhd_vec_tst 0 22 g]geOfFhhl8JZgk?X;CMh2
+l46
+L33
+VZXo5OWi?cT`DSjWP>W_d31
+!s100 >Ikn2[jS3;BW=lPGk4N;62
+R10
+32
+R11
+!i10b 1
+R12
+R20
+R21
+!i113 1
+R15
+R16

@@ -1,0 +1,10 @@
+Bus stop sign 
+Button to press to signal the bus to stop
+When button is pressed:
+    - Led turns ON
+    - Piezo makes 4 beeps
+    - Display LCD writes STOP
+    
+- Display LCD writes time (hours and minutes) and temperature read from TC74 temperature sensor
+    
+Potentiometer to regulate contrast of Display LCD

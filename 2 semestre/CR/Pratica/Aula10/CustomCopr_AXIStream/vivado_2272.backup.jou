@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jun  4 18:34:19 2022
+# Process ID: 2272
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16480 C:\Academico\UA\4ano\2semestre\CR\Pratica\Aula10\CustomCopr_AXIStream\CustomCopr_AXIStream.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream/CustomCopr_AXIStream.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd}

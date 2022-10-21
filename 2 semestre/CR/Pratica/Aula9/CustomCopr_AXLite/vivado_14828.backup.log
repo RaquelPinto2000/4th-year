@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun May 29 11:00:51 2022
+# Process ID: 14828
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/CustomCopr_AXLite
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7836 C:\Academico\UA\4ano\2semestre\CR\Pratica\Aula9\CustomCopr_AXLite\CustomCopr_AXLite.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/CustomCopr_AXLite/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/CustomCopr_AXLite\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/CustomCopr_AXLite/CustomCopr_AXLite.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao7/CustomCopr_AXLite' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/ip_repo/CustomPeriph_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Aula9/ip_repo/CustomCopr_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:09 . Memory (MB): peak = 1000.695 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun May 29 11:28:15 2022...

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="main.SimulPar"/>
+    <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+    <fullyQualifiedTypeName name="serverSide.main.SimulPar"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="interfaces.TableInterface"/>
+    <fullyQualifiedTypeName name="interfaces.BarInterface"/>
+    <fullyQualifiedTypeName name="interfaces.KitchenInterface"/>
+    <fullyQualifiedTypeName name="interfaces.GeneralReposInterface"/>
+    <fullyQualifiedTypeName name="java.rmi.registry.Registry"/>
+    <fullyQualifiedTypeName name="java.rmi.registry.LocateRegistry"/>
+    <fullyQualifiedTypeName name="java.rmi.NotBoundException"/>
+    <fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+    <fullyQualifiedTypeName name="interfaces.ReturnInt"/>
+    <fullyQualifiedTypeName name="clientSide.entities.StudentStates"/>
+</qualifiedTypeNameHistroy>

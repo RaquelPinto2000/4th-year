@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1655027731">
+  <File Type="PA-TCL" Name="countdown_timer.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="countdown_timer_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="countdown_timer_reports.tcl"/>
+  <File Type="RDS-RDS" Name="countdown_timer.vds"/>
+  <File Type="RDS-UTIL" Name="countdown_timer_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="countdown_timer_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="countdown_timer.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="countdown_timer_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="countdown_timer_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/DebounceUnit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/DebounceUnit.vhd"/>
+        <Attr Name="ImportTime" Val="1648913549"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/counter_3bits.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/counter_3bits.vhd"/>
+        <Attr Name="ImportTime" Val="1648388733"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/mux_seg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/mux_seg.vhd"/>
+        <Attr Name="ImportTime" Val="1648383089"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/display_7_seg.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/display_7_seg.vhd"/>
+        <Attr Name="ImportTime" Val="1648381858"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/mux_an.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/mux_an.vhd"/>
+        <Attr Name="ImportTime" Val="1648381399"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/mux_dp.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/mux_dp.vhd"/>
+        <Attr Name="ImportTime" Val="1648313466"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/Nexys4DispDriver.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/Nexys4DispDriver.vhd"/>
+        <Attr Name="ImportTime" Val="1648388672"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/imports/new/PulseGenerator.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/imports/new/PulseGenerator.vhd"/>
+        <Attr Name="ImportTime" Val="1648914536"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PulseGenerator_2Hz.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PulseGenerator_4Hz.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/PulseGenerator_counter.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/PulseGenerator_counter.vhd"/>
+        <Attr Name="ImportTime" Val="1648898763"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/control_Unit.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/control_Unit.vhd"/>
+        <Attr Name="ImportTime" Val="1648919250"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/flip_flop.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/counter_4bits_mod10.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/counter_4bits_mod10.vhd"/>
+        <Attr Name="ImportTime" Val="1648916335"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/counter_4bits_mod6.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/counter_4bits_mod6.vhd"/>
+        <Attr Name="ImportTime" Val="1648910517"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/counter_total.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/counter_total.vhd"/>
+        <Attr Name="ImportTime" Val="1649193628"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/sources_1/new/countdown_timer.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../parte1/parte1.srcs/sources_1/new/countdown_timer.vhd"/>
+        <Attr Name="ImportTime" Val="1648919730"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="countdown_timer"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Pratica/Nexys4_Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../Nexys4_Master.xdc"/>
+        <Attr Name="ImportTime" Val="1613841597"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2020"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

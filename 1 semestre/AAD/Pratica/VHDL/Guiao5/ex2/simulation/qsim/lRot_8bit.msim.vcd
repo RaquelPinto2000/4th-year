@@ -1,0 +1,300 @@
+$comment
+	File created using the following command:
+		vcd file lRot_8bit.msim.vcd -direction
+$end
+$date
+	Tue Nov 09 15:54:00 2021
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module lrot_8bit_vhd_vec_tst $end
+$var wire 1 ! dIn [7] $end
+$var wire 1 " dIn [6] $end
+$var wire 1 # dIn [5] $end
+$var wire 1 $ dIn [4] $end
+$var wire 1 % dIn [3] $end
+$var wire 1 & dIn [2] $end
+$var wire 1 ' dIn [1] $end
+$var wire 1 ( dIn [0] $end
+$var wire 1 ) dOut [7] $end
+$var wire 1 * dOut [6] $end
+$var wire 1 + dOut [5] $end
+$var wire 1 , dOut [4] $end
+$var wire 1 - dOut [3] $end
+$var wire 1 . dOut [2] $end
+$var wire 1 / dOut [1] $end
+$var wire 1 0 dOut [0] $end
+$var wire 1 1 sel [2] $end
+$var wire 1 2 sel [1] $end
+$var wire 1 3 sel [0] $end
+
+$scope module i1 $end
+$var wire 1 4 gnd $end
+$var wire 1 5 vcc $end
+$var wire 1 6 unknown $end
+$var wire 1 7 devoe $end
+$var wire 1 8 devclrn $end
+$var wire 1 9 devpor $end
+$var wire 1 : ww_devoe $end
+$var wire 1 ; ww_devclrn $end
+$var wire 1 < ww_devpor $end
+$var wire 1 = ww_dIn [7] $end
+$var wire 1 > ww_dIn [6] $end
+$var wire 1 ? ww_dIn [5] $end
+$var wire 1 @ ww_dIn [4] $end
+$var wire 1 A ww_dIn [3] $end
+$var wire 1 B ww_dIn [2] $end
+$var wire 1 C ww_dIn [1] $end
+$var wire 1 D ww_dIn [0] $end
+$var wire 1 E ww_sel [2] $end
+$var wire 1 F ww_sel [1] $end
+$var wire 1 G ww_sel [0] $end
+$var wire 1 H ww_dOut [7] $end
+$var wire 1 I ww_dOut [6] $end
+$var wire 1 J ww_dOut [5] $end
+$var wire 1 K ww_dOut [4] $end
+$var wire 1 L ww_dOut [3] $end
+$var wire 1 M ww_dOut [2] $end
+$var wire 1 N ww_dOut [1] $end
+$var wire 1 O ww_dOut [0] $end
+$var wire 1 P \dOut[0]~output_o\ $end
+$var wire 1 Q \dOut[1]~output_o\ $end
+$var wire 1 R \dOut[2]~output_o\ $end
+$var wire 1 S \dOut[3]~output_o\ $end
+$var wire 1 T \dOut[4]~output_o\ $end
+$var wire 1 U \dOut[5]~output_o\ $end
+$var wire 1 V \dOut[6]~output_o\ $end
+$var wire 1 W \dOut[7]~output_o\ $end
+$var wire 1 X \dIn[5]~input_o\ $end
+$var wire 1 Y \dIn[7]~input_o\ $end
+$var wire 1 Z \sel[1]~input_o\ $end
+$var wire 1 [ \blk1|mult7|or0|y~0_combout\ $end
+$var wire 1 \ \dIn[6]~input_o\ $end
+$var wire 1 ] \dIn[0]~input_o\ $end
+$var wire 1 ^ \blk1|mult0|or0|y~0_combout\ $end
+$var wire 1 _ \sel[0]~input_o\ $end
+$var wire 1 ` \blk1|mult0|or0|y~1_combout\ $end
+$var wire 1 a \sel[2]~input_o\ $end
+$var wire 1 b \dIn[1]~input_o\ $end
+$var wire 1 c \dIn[3]~input_o\ $end
+$var wire 1 d \blk1|mult4|or0|y~0_combout\ $end
+$var wire 1 e \dIn[4]~input_o\ $end
+$var wire 1 f \dIn[2]~input_o\ $end
+$var wire 1 g \blk1|mult4|or0|y~1_combout\ $end
+$var wire 1 h \blk1|mult4|or0|y~2_combout\ $end
+$var wire 1 i \blk2|mult0|or0|y~0_combout\ $end
+$var wire 1 j \blk1|mult5|or0|y~0_combout\ $end
+$var wire 1 k \blk1|mult5|or0|y~1_combout\ $end
+$var wire 1 l \blk1|mult2|or0|y~0_combout\ $end
+$var wire 1 m \blk1|mult1|or0|y~0_combout\ $end
+$var wire 1 n \blk2|mult1|or0|y~0_combout\ $end
+$var wire 1 o \blk1|mult2|or0|y~1_combout\ $end
+$var wire 1 p \blk1|mult2|or0|y~2_combout\ $end
+$var wire 1 q \blk1|mult6|or0|y~0_combout\ $end
+$var wire 1 r \blk1|mult6|or0|y~1_combout\ $end
+$var wire 1 s \blk2|mult2|or0|y~0_combout\ $end
+$var wire 1 t \blk1|mult3|or0|y~0_combout\ $end
+$var wire 1 u \blk1|mult7|or0|y~1_combout\ $end
+$var wire 1 v \blk2|mult3|or0|y~0_combout\ $end
+$var wire 1 w \blk2|mult4|or0|y~0_combout\ $end
+$var wire 1 x \blk2|mult5|or0|y~0_combout\ $end
+$var wire 1 y \blk2|mult6|or0|y~0_combout\ $end
+$var wire 1 z \blk2|mult7|or0|y~0_combout\ $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+04
+15
+x6
+17
+18
+19
+1:
+1;
+1<
+1P
+0Q
+1R
+1S
+0T
+1U
+0V
+0W
+0X
+0Y
+1Z
+0[
+1\
+1]
+1^
+0_
+1`
+0a
+1b
+1c
+1d
+0e
+0f
+0g
+0h
+1i
+1j
+1k
+0l
+0m
+0n
+1o
+1p
+0q
+0r
+1s
+1t
+0u
+1v
+0w
+1x
+0y
+0z
+0!
+1"
+0#
+0$
+1%
+0&
+1'
+1(
+01
+12
+03
+0=
+1>
+0?
+0@
+1A
+0B
+1C
+1D
+0E
+1F
+0G
+0H
+0I
+1J
+0K
+1L
+1M
+0N
+1O
+0)
+0*
+1+
+0,
+1-
+1.
+0/
+10
+$end
+#368924
+13
+1G
+1_
+0`
+1h
+0k
+1m
+0p
+1r
+0s
+1y
+1n
+0x
+0i
+1w
+1T
+0P
+0U
+1Q
+1V
+0R
+1K
+0O
+0J
+1N
+1I
+0M
+00
+1/
+0.
+1,
+0+
+1*
+#635932
+02
+0F
+0Z
+0j
+1l
+0o
+1q
+1u
+0t
+1p
+0r
+1s
+0y
+0v
+1z
+1W
+0S
+0V
+1R
+1H
+0L
+0I
+1M
+1.
+0-
+0*
+1)
+#997108
+03
+0G
+0_
+1`
+0h
+0p
+1r
+1t
+0u
+1v
+0z
+0s
+1y
+1i
+0w
+0T
+1P
+1V
+0R
+0W
+1S
+0K
+1O
+1I
+0M
+0H
+1L
+10
+0.
+1-
+0,
+1*
+0)
+#1000000

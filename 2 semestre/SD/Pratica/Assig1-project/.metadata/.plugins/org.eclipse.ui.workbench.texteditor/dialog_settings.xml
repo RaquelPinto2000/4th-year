@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="lastToEnterRestaurant"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="lastToEnterRestaurant"/>
+			<item value="firstToEnter"/>
+			<item value="lastToEat"/>
+			<item value="honorTheBill"/>
+			<item value="waitForEveryoneToFinish"/>
+			<item value="enjoyMeal"/>
+			<item value="chat"/>
+			<item value="describeOrder"/>
+			<item value="informCompanions"/>
+			<item value="organizeOrder"/>
+			<item value="/**&#x0A;&#x09; * Operation selecting the course&#x0A;&#x09; *&#x0A;&#x09; * It is called by a student to know if all the portions have been served&#x0A;&#x09; * @param studentID student identifier&#x0A;&#x09; * @return StudentStates.SELCS&#x0A;&#x09; * @throws RemoteException &#x0A;&#x09; * &#x0A;&#x09; */"/>
+			<item value="selectingCourse"/>
+			<item value="setWaiterState"/>
+			<item value="lookAround"/>
+			<item value="enter"/>
+		</list>
+		<list key="replacehistory">
+			<item value=" throws RemoteException;"/>
+			<item value="throws RemoteException;"/>
+			<item value="Table"/>
+			<item value="table"/>
+			<item value="ServerBar"/>
+			<item value="BarInterface"/>
+			<item value="ServerGeneralRepos"/>
+			<item value="TableClientProxy"/>
+			<item value="reposStub"/>
+			<item value="Stub"/>
+			<item value="kitchen"/>
+			<item value="BarberShop bShop;                                              // barber shop (service to be rendered)&#x0A;      BarberShopInterface bShopInter;                                // interface to the barber shop&#x0A;      GeneralReposStub reposStub;                                    // stub to the general repository&#x0A;      ServerCom scon, sconi;                                         // communication channels&#x0A;      int portNumb = -1;                                             // port number for listening to service requests&#x0A;      String reposServerName;                                        // name of the platform where is located the server for the general repository&#x0A;      int reposPortNumb = -1;                                        // port nunber where the server for the general repository is listening to service requests&#x0A;&#x0A;      if (args.length != 3)&#x0A;         { GenericIO.writelnString (&quot;Wrong number of parameters!&quot;);&#x0A;           System.exit (1);&#x0A;         }&#x0A;      try&#x0A;      { portNumb = Integer.parseInt (args[0]);&#x0A;      }&#x0A;      catch (NumberFormatException e)&#x0A;      { GenericIO.writelnString (&quot;args[0] is not a number!&quot;);&#x0A;        System.exit (1);&#x0A;      }&#x0A;      if ((portNumb &lt; 4000) || (portNumb &gt;= 65536))&#x0A;         { GenericIO.writelnString (&quot;args[0] is not a valid port number!&quot;);&#x0A;           System.exit (1);&#x0A;         }&#x0A;      reposServerName = args[1];&#x0A;      try&#x0A;      { reposPortNumb = Integer.parseInt (args[2]);&#x0A;      }&#x0A;      catch (NumberFormatException e)&#x0A;      { GenericIO.writelnString (&quot;args[2] is not a number!&quot;);&#x0A;        System.exit (1);&#x0A;      }&#x0A;      if ((reposPortNumb &lt; 4000) || (reposPortNumb &gt;= 65536))&#x0A;         { GenericIO.writelnString (&quot;args[2] is not a valid port number!&quot;);&#x0A;           System.exit (1);&#x0A;         }&#x0A;&#x0A;     /* service is established */&#x0A;&#x0A;      reposStub = new GeneralReposStub (reposServerName, reposPortNumb);       // communication to the general repository is instantiated&#x0A;      bShop = new BarberShop (reposStub);                                      // service is instantiated&#x0A;      bShopInter = new BarberShopInterface (bShop);                            // interface to the service is instantiated&#x0A;      scon = new ServerCom (portNumb);                                         // listening channel at the public port is established&#x0A;      scon.start ();&#x0A;      GenericIO.writelnString (&quot;Service is established!&quot;);&#x0A;      GenericIO.writelnString (&quot;Server is listening for service requests.&quot;);&#x0A;&#x0A;     /* service request processing */&#x0A;&#x0A;      BarberShopClientProxy cliProxy;                                // service provider agent&#x0A;&#x0A;      waitConnection = true;&#x0A;      while (waitConnection)&#x0A;      { try&#x0A;        { sconi = scon.accept ();                                    // enter listening procedure&#x0A;          cliProxy = new BarberShopClientProxy (sconi, bShopInter);    // start a service provider agent to address&#x0A;          cliProxy.start ();                                         //   the request of service&#x0A;        }&#x0A;        catch (SocketTimeoutException e) {}&#x0A;      }&#x0A;      scon.end ();                                                   // operations termination&#x0A;      GenericIO.writelnString (&quot;Server was shutdown.&quot;);&#x0A;   }"/>
+			<item value="KitchenClientProxy"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1117"/>
+		<item key="DIALOG_Y_ORIGIN" value="193"/>
+		<item key="DIALOG_WIDTH" value="346"/>
+		<item key="DIALOG_HEIGHT" value="395"/>
+		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|10.0|0|GTK|1|"/>
+	</section>
+</section>

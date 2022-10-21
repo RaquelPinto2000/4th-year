@@ -1,0 +1,66 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May  5 22:20:01 2022
+# Process ID: 15928
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12892 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao5\MB_basePlataform\MB_basePlataform.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:09 . Memory (MB): peak = 1001.969 ; gain = 0.000
+update_compile_order -fileset sources_1
+open_bd_design {C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd}
+Reading block design file <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd>...
+Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr
+Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_intc:4.1 - microblaze_0_axi_intc
+Adding component instance block -- xilinx.com:ip:xlconcat:2.1 - microblaze_0_xlconcat
+Adding component instance block -- xilinx.com:ip:mdm:3.2 - mdm_1
+Adding component instance block -- xilinx.com:ip:clk_wiz:6.0 - clk_wiz_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_clk_wiz_1_100M
+Adding component instance block -- xilinx.com:ip:xlconstant:1.1 - xlconstant_0
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_switches
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_leds
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_buttons
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_displays
+Adding component instance block -- xilinx.com:ip:axi_uartlite:2.0 - axi_uartlite_0
+Adding component instance block -- xilinx.com:ip:axi_timer:2.0 - axi_timer_0
+Successfully read diagram <mb_design> from block design file <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd>
+open_bd_design: Time (s): cpu = 00:00:22 ; elapsed = 00:00:16 . Memory (MB): peak = 1001.969 ; gain = 0.000
+delete_bd_objs [get_bd_cells axi_timer_0]
+save_bd_design
+Wrote  : <C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao5\MB_basePlataform\MB_basePlataform.srcs\sources_1\bd\mb_design\mb_design.bd> 
+Wrote  : <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/ui/bd_db273ea8.ui> 
+generate_target all [get_files  C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd]
+INFO: [xilinx.com:ip:axi_intc:4.1-1] /microblaze_0_axi_intc: The AXI INTC core has been configured to operate with synchronous clocks.
+WARNING: [xilinx.com:ip:axi_intc:4.1-4] /microblaze_0_axi_intc: Could not determine interrupt input port type - using default interrupt type Rising Edge. Please change this manually if necessary.
+INFO: [xilinx.com:ip:clk_wiz:6.0-1] /clk_wiz_1 clk_wiz propagate
+Wrote  : <C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao5\MB_basePlataform\MB_basePlataform.srcs\sources_1\bd\mb_design\mb_design.bd> 
+Wrote  : <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/ui/bd_db273ea8.ui> 
+VHDL Output written to : c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/synth/mb_design.vhd
+VHDL Output written to : c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/sim/mb_design.vhd
+VHDL Output written to : c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/hdl/mb_design_wrapper.vhd
+Exporting to file c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/hw_handoff/mb_design.hwh
+Generated Block Design Tcl file c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/hw_handoff/mb_design_bd.tcl
+Generated Hardware Definition File c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.gen/sources_1/bd/mb_design/synth/mb_design.hwdef
+generate_target: Time (s): cpu = 00:00:17 ; elapsed = 00:00:19 . Memory (MB): peak = 1176.859 ; gain = 167.117
+export_ip_user_files -of_objects [get_files C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd] -no_script -sync -force -quiet
+export_simulation -of_objects [get_files C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.srcs/sources_1/bd/mb_design/mb_design.bd] -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.ip_user_files/sim_scripts -ip_user_files_dir C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.ip_user_files -ipstatic_source_dir C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.cache/compile_simlib/modelsim} {questa=C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.cache/compile_simlib/questa} {riviera=C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.cache/compile_simlib/riviera} {activehdl=C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+INFO: [Vivado 12-8217] Implementation run is out of date. Exported hardware information may be inconsistent with respect to the current state of the design. It is recommended that you re-run implementation and re-generate bitstream/PDI before doing hardware export.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu May  5 22:22:29 2022...

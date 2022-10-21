@@ -1,0 +1,61 @@
+
+*** Running vivado
+    with args -log mb_design_wrapper.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source mb_design_wrapper.tcl
+
+
+
+****** Vivado v2020.2 (64-bit)
+  **** SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+  **** IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+    ** Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+source mb_design_wrapper.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+WARNING: [IP_Flow 19-4995] The host OS only allows 260 characters in a normal path. The IP cache path is more than 80 characters. If you experience issues with IP caching, please consider changing the IP cache to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. 
+Current IP cache path is c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.cache/ip 
+Command: synth_design -top mb_design_wrapper -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 3652
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:09 ; elapsed = 00:00:12 . Memory (MB): peak = 1000.188 ; gain = 0.000
+---------------------------------------------------------------------------------
+WARNING: [Synth 8-2048] function clogb2 does not always return a value [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0_S00_AXIS.vhd:55]
+INFO: [Synth 8-638] synthesizing module 'mb_design_wrapper' [C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/hdl/mb_design_wrapper.vhd:28]
+INFO: [Synth 8-3491] module 'mb_design' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/synth/mb_design.vhd:2499' bound to instance 'mb_design_i' of component 'mb_design' [C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/hdl/mb_design_wrapper.vhd:43]
+INFO: [Synth 8-638] synthesizing module 'mb_design' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/synth/mb_design.vhd:2517]
+INFO: [Synth 8-3491] module 'mb_design_PopCount_0_0' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ip/mb_design_PopCount_0_0/synth/mb_design_PopCount_0_0.vhd:56' bound to instance 'PopCount_0' of component 'mb_design_PopCount_0_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/synth/mb_design.vhd:3103]
+INFO: [Synth 8-638] synthesizing module 'mb_design_PopCount_0_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ip/mb_design_PopCount_0_0/synth/mb_design_PopCount_0_0.vhd:75]
+	Parameter C_M00_AXIS_TDATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_M00_AXIS_START_COUNT bound to: 32 - type: integer 
+	Parameter C_S00_AXIS_TDATA_WIDTH bound to: 32 - type: integer 
+INFO: [Synth 8-3491] module 'PopCount_v1_0' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:5' bound to instance 'U0' of component 'PopCount_v1_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ip/mb_design_PopCount_0_0/synth/mb_design_PopCount_0_0.vhd:130]
+INFO: [Synth 8-638] synthesizing module 'PopCount_v1_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:47]
+	Parameter C_S00_AXIS_TDATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_M00_AXIS_TDATA_WIDTH bound to: 32 - type: integer 
+	Parameter C_M00_AXIS_START_COUNT bound to: 32 - type: integer 
+	Parameter C_S_AXIS_TDATA_WIDTH bound to: 32 - type: integer 
+INFO: [Synth 8-3491] module 'PopCount_v1_0_S00_AXIS' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0_S00_AXIS.vhd:5' bound to instance 'PopCount_v1_0_S00_AXIS_inst' of component 'PopCount_v1_0_S00_AXIS' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:94]
+ERROR: [Synth 8-3493] module 'popcount_v1_0_s00_axis' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0_S00_AXIS.vhd:5' does not have matching formal port for component port 'datavalid' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:94]
+ERROR: [Synth 8-3493] module 'popcount_v1_0_s00_axis' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0_S00_AXIS.vhd:5' does not have matching formal port for component port 'reverseddata' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:94]
+ERROR: [Synth 8-3493] module 'popcount_v1_0_s00_axis' declared at 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0_S00_AXIS.vhd:5' does not have matching formal port for component port 'readenabled' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:94]
+ERROR: [Synth 8-285] failed synthesizing module 'PopCount_v1_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ipshared/32c2/hdl/PopCount_v1_0.vhd:47]
+ERROR: [Synth 8-285] failed synthesizing module 'mb_design_PopCount_0_0' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/ip/mb_design_PopCount_0_0/synth/mb_design_PopCount_0_0.vhd:75]
+ERROR: [Synth 8-285] failed synthesizing module 'mb_design' [c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/synth/mb_design.vhd:2517]
+ERROR: [Synth 8-285] failed synthesizing module 'mb_design_wrapper' [C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.gen/sources_1/bd/mb_design/hdl/mb_design_wrapper.vhd:28]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:27 ; elapsed = 00:00:35 . Memory (MB): peak = 1299.699 ; gain = 299.512
+---------------------------------------------------------------------------------
+RTL Elaboration failed
+INFO: [Common 17-83] Releasing license: Synthesis
+18 Infos, 2 Warnings, 0 Critical Warnings and 8 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details
+INFO: [Common 17-206] Exiting Vivado at Sun Jun 12 21:57:52 2022...

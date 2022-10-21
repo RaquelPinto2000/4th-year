@@ -1,0 +1,85 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Jun 12 11:48:38 2022
+# Process ID: 1520
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1268 C:\Academico\UA\4ano\2semestre\CR\Pratica\tutorial\tutorial\tutorial.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:07 . Memory (MB): peak = 1000.379 ; gain = 0.000
+update_compile_order -fileset sources_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'tutorial_tb' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.sim/sim_1/behav/xsim'
+"xvhdl --incr --relax -prj tutorial_tb_vhdl.prj"
+INFO: [USF-XSim-69] 'compile' step finished in '2' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.sim/sim_1/behav/xsim'
+"xelab -wto 4e68ab1e154f438b80799368b533f658 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tutorial_tb_behav xil_defaultlib.tutorial_tb -log elaborate.log"
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 4e68ab1e154f438b80799368b533f658 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tutorial_tb_behav xil_defaultlib.tutorial_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+INFO: [XSIM 43-4323] No Change in HDL. Linking previously generated obj files to create kernel
+INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "tutorial_tb_behav -key {Behavioral:sim_1:Functional:tutorial_tb} -tclbatch {tutorial_tb.tcl} -view {C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial_tb_behav.wcfg} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+open_wave_config C:/Academico/UA/4ano/2semestre/CR/Pratica/tutorial/tutorial/tutorial_tb_behav.wcfg
+source tutorial_tb.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+LED output MATCHED at 1. Expected: 00000001 Actual: 00000001
+LED output mis-matched at 2. Expected: 00001011 Actual: 00000111
+LED output MATCHED at 3. Expected: 00000001 Actual: 00000001
+LED output MATCHED at 4. Expected: 00000001 Actual: 00000001
+LED output MATCHED at 5. Expected: 00000001 Actual: 00000001
+LED output mis-matched at 6. Expected: 00001011 Actual: 00000111
+LED output mis-matched at 7. Expected: 00000101 Actual: 00001101
+LED output mis-matched at 8. Expected: 00000101 Actual: 00001101
+LED output MATCHED at 9. Expected: 00010001 Actual: 00010001
+LED output mis-matched at 10. Expected: 00011011 Actual: 00010111
+LED output MATCHED at 11. Expected: 00010001 Actual: 00010001
+LED output MATCHED at 12. Expected: 00010001 Actual: 00010001
+LED output MATCHED at 13. Expected: 00010001 Actual: 00010001
+LED output mis-matched at 14. Expected: 00011011 Actual: 00010111
+LED output mis-matched at 15. Expected: 00010101 Actual: 00011101
+LED output mis-matched at 16. Expected: 00010101 Actual: 00011101
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tutorial_tb_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:12 ; elapsed = 00:00:10 . Memory (MB): peak = 1000.379 ; gain = 0.000
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jun 12 12:04:42 2022...

@@ -1,0 +1,509 @@
+/*
+
+Xilinx Vivado v2020.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3064766 on Wed Nov 18 09:12:45 MST 2020
+IP Build: 3064653 on Wed Nov 18 14:17:31 MST 2020
+
+Process ID (PID): 17376
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Fri Jun 10 17:31:04 BST 2022
+Time zone: 	Greenwich Mean Time (Europe/London)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+Scale size: 19
+
+Java version: 	11.0.2 64-bit
+Java home: 	C:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2
+Java executable location: 	C:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	RaquelP
+User home directory: C:/Users/Raquel
+User working directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream
+User country: 	PT
+User language: 	pt
+User locale: 	pt_PT
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2020.2
+RDI_DATADIR: C:/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: C:/Users/Raquel/AppData/Roaming/Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: C:/Users/Raquel/AppData/Roaming/Xilinx/Vivado/2020.2/
+Vivado layouts directory: C:/Users/Raquel/AppData/Roaming/Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/vivado.log
+Vivado journal file location: 	C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/vivado.jou
+Engine tmp dir: 	C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/.Xil/Vivado-17376-DESKTOP-PEVSSVR
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: C:/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2020.2
+XILINX_SDK: C:/Xilinx/Vitis/2020.2
+XILINX_VITIS: C:/Xilinx/Vitis/2020.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	128 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,015 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cr):  Open Project : addNotify
+// Opening Vivado Project: C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao8\CustomCopr_AXIStream\CustomCopr_AXIStream.xpr. Version: Vivado v2020.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,015 MB. GUI used memory: 55 MB. Current time: 6/10/22, 5:31:06 PM BST
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 78 MB (+79306kb) [00:00:15]
+// [Engine Memory]: 1,015 MB (+912984kb) [00:00:15]
+// [GUI Memory]: 88 MB (+6875kb) [00:00:15]
+// [GUI Memory]: 110 MB (+17516kb) [00:00:16]
+// [GUI Memory]: 118 MB (+2496kb) [00:00:19]
+// WARNING: HEventQueue.dispatchEvent() is taking  5992 ms.
+// Tcl Message: open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Academico/UA/4ano/2semestre/CR/Pratica/Aula10/CustomCopr_AXIStream' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'. INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:26 ; elapsed = 00:00:11 . Memory (MB): peak = 1000.656 ; gain = 0.000 
+// Project name: CustomCopr_AXIStream; location: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream; part: xc7a100tcsg324-1
+// [GUI Memory]: 125 MB (+1434kb) [00:00:22]
+dismissDialog("Open Project"); // bz
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints]", 0); // D
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+collapseTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints]", 0); // D
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mb_design_wrapper(STRUCTURE) (mb_design_wrapper.vhd)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mb_design_wrapper(STRUCTURE) (mb_design_wrapper.vhd)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+// [GUI Memory]: 132 MB (+709kb) [00:00:32]
+// [GUI Memory]: 143 MB (+4601kb) [00:00:32]
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mb_design_wrapper(STRUCTURE) (mb_design_wrapper.vhd), mb_design_i : mb_design (mb_design.bd)]", 2, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, mb_design_wrapper(STRUCTURE) (mb_design_wrapper.vhd), mb_design_i : mb_design (mb_design.bd)]", 2, true, false, false, false, false, true); // D - Double Click - Node
+// bz (cr):  Open Block Design : addNotify
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_SCRIPT_TASK
+// Tcl Message: open_bd_design {C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd} 
+// Tcl Message: Reading block design file <C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.srcs/sources_1/bd/mb_design/mb_design.bd>... 
+// TclEventType: RSB_CHANGE_CURRENT_DIAGRAM
+// TclEventType: LOAD_FEATURE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// Tcl Message: Adding component instance block -- xilinx.com:ip:microblaze:11.0 - microblaze_0 Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - dlmb_v10 Adding component instance block -- xilinx.com:ip:lmb_v10:3.0 - ilmb_v10 Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - dlmb_bram_if_cntlr Adding component instance block -- xilinx.com:ip:lmb_bram_if_cntlr:4.0 - ilmb_bram_if_cntlr Adding component instance block -- xilinx.com:ip:blk_mem_gen:8.4 - lmb_bram Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - microblaze_0_axi_periph Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar 
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: RSB_PROPERTY_CHANGE
+// TclEventType: RSB_LOCK_CHANGE
+// TclEventType: RSB_SCRIPT_TASK
+// TclEventType: RSB_OPEN_DIAGRAM
+// WARNING: HEventQueue.dispatchEvent() is taking  5957 ms.
+// PAPropertyPanels.initPanels (mb_design.bd) elapsed time: 0.2s
+// WARNING: HEventQueue.dispatchEvent() is taking  1878 ms.
+// Elapsed time: 21 seconds
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// Tcl Message: open_bd_design: Time (s): cpu = 00:00:31 ; elapsed = 00:00:21 . Memory (MB): peak = 1000.656 ; gain = 0.000 
+dismissDialog("Open Block Design"); // bz
+// HMemoryUtils.trashcanNow. Engine heap size: 1,065 MB. GUI used memory: 96 MB. Current time: 6/10/22, 5:31:51 PM BST
+// [Engine Memory]: 1,086 MB (+20687kb) [00:01:00]
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 309, 444, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenuItem(PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER, "Edit in IP Packager"); // ak
+// Run Command: PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER
+// j (cr): Edit in IP Packager: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// bz (cr):  Edit in IP Packager : addNotify
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_ADD
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: ipx::edit_ip_in_project -upgrade true -name ReverseEndiannessCop_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/ReverseEndiannessCop_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0/component.xml 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project' 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// WARNING: HEventQueue.dispatchEvent() is taking  5850 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,115 MB. GUI used memory: 107 MB. Current time: 6/10/22, 5:32:07 PM BST
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: RSB_BITABEN_IPREPODATA_REFRESH
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: create_project: Time (s): cpu = 00:00:20 ; elapsed = 00:00:09 . Memory (MB): peak = 1095.602 ; gain = 47.039 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'. INFO: [IP_Flow 19-795] Syncing license key meta-data 
+// TclEventType: PACKAGER_CURRENT_CORE
+// Run Command: PAResourceCommand.PACommandNames_IP_PACKAGER
+// [GUI Memory]: 160 MB (+10838kb) [00:01:17]
+// WARNING: HEventQueue.dispatchEvent() is taking  2041 ms.
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: PACKAGER_MESSAGE_UPDATE
+// Tcl Message: ipx::edit_ip_in_project: Time (s): cpu = 00:00:25 ; elapsed = 00:00:12 . Memory (MB): peak = 1098.711 ; gain = 50.148 
+// 'i' command handler elapsed time: 14 seconds
+// Elapsed time: 13 seconds
+dismissDialog("Edit in IP Packager"); // bz
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// Tcl Message: update_compile_order -fileset sources_1 
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd), ReverseEndiannessCop_v1_0_S00_AXIS_inst : ReverseEndiannessCop_v1_0_S00_AXIS(arch_imp) (ReverseEndiannessCop_v1_0_S00_AXIS.vhd)]", 2, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd), ReverseEndiannessCop_v1_0_S00_AXIS_inst : ReverseEndiannessCop_v1_0_S00_AXIS(arch_imp) (ReverseEndiannessCop_v1_0_S00_AXIS.vhd)]", 2, false, false, false, false, false, true); // D - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd), ReverseEndiannessCop_v1_0_S00_AXIS_inst : ReverseEndiannessCop_v1_0_S00_AXIS(arch_imp) (ReverseEndiannessCop_v1_0_S00_AXIS.vhd)]", 2, false); // D
+// [GUI Memory]: 169 MB (+323kb) [00:01:29]
+// Elapsed time: 15 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd), ReverseEndiannessCop_v1_0_M00_AXIS_inst : ReverseEndiannessCop_v1_0_M00_AXIS(implementation) (ReverseEndiannessCop_v1_0_M00_AXIS.vhd)]", 3, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd), ReverseEndiannessCop_v1_0_M00_AXIS_inst : ReverseEndiannessCop_v1_0_M00_AXIS(implementation) (ReverseEndiannessCop_v1_0_M00_AXIS.vhd)]", 3, false, false, false, false, false, true); // D - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 3); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 3); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 125, 171); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 125, 171, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 254, 400); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 254, 400, false, false, false, false, true); // bP - Double Click
+// Elapsed time: 12 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 87, 299); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 3); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 84, 353); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 329, 343); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 3); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 111, 276); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 111, 276, false, false, false, false, true); // bP - Double Click
+// Elapsed time: 31 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 143, 334); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 143, 334, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 299, 184); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 299, 184, false, false, false, false, true); // bP - Double Click
+// WARNING: HTimer (StateMonitor Timer) is taking 808ms to process. Increasing delay to 4000 ms.
+// Elapsed time: 509 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 359, 222); // bP
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA", true); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+// Elapsed time: 18 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 298, 257); // bP
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA", true); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "S_AXIS_TDATA"); // l
+// Elapsed time: 38 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 73, 405); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 73, 405, false, false, false, false, true); // bP - Double Click
+// Elapsed time: 12 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 280, 387); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0.vhd", 4); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 319, 75); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 319, 75, false, false, false, false, true); // bP - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 2); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 67, 162); // bP
+// Elapsed time: 106 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 42, 358); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_S00_AXIS.vhd", 316, 408); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 3); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 17, 447); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 463, 458); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 86, 452); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 86, 452, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 110, 400); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 110, 400, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 134, 311); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 134, 311, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0_M00_AXIS.vhd", 445, 450); // bP
+// Elapsed time: 131 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "ReverseEndiannessCop_v1_0.vhd", 4); // m
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 345, 239); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 63, 303); // bP
+// Elapsed time: 87 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 331, 191); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 37, 80); // bP
+// Elapsed time: 42 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 321, 187); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 276, 170); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 276, 170, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 295, 162); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 295, 162, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 308, 301); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 308, 301, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 287, 433); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 287, 433, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 272, 455); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 272, 455, false, false, false, false, true); // bP - Double Click
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 163, 386); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 163, 386, false, false, false, false, true); // bP - Double Click
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "s_dataValid"); // l
+applyEnter(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "s_dataValid"); // l
+// Tcl Message: current_project CustomCopr_AXIStream 
+// Elapsed time: 66 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 138, 300); // bP
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 138, 300, false, false, false, false, true); // bP - Double Click
+// Elapsed time: 244 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "mb_design_wrapper.vhd", 3); // m
+// Elapsed time: 33 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "System", 0); // m
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 332, 113, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+// [Engine Memory]: 1,141 MB (+963kb) [00:26:22]
+selectMenu(PAResourceQtoS.SelectMenu_HIGHLIGHT, "Highlight"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+// HMemoryUtils.trashcanNow. Engine heap size: 1,141 MB. GUI used memory: 115 MB. Current time: 6/10/22, 5:57:16 PM BST
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 353, 115, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+selectMenu(PAResourceQtoS.SelectMenu_HIGHLIGHT, "Highlight"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_EXPAND_COLLAPSE, "Expand/Collapse"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+// Elapsed time: 800 seconds
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 319, 214); // bP
+// Elapsed time: 412 seconds
+closeMainWindow("ReverseEndiannessCop_v1_0_project - [c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project/ReverseEndiannessCop_v1_0_project.xpr] - Vivado 2020.2"); // cr
+// Run Command: PAResourceCommand.PACommandNames_CLOSE_PROJECT
+// A (cr): Close Project: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// bz (cr):  Close Project : addNotify
+dismissDialog("Close Project"); // A
+// Tcl Message: current_project ReverseEndiannessCop_v1_0_project 
+// TclEventType: PROJECT_CLOSE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,142 MB. GUI used memory: 110 MB. Current time: 6/10/22, 6:17:36 PM BST
+// Tcl Message: close_project 
+dismissDialog("Close Project"); // bz
+// Elapsed time: 134 seconds
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 257, 100, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+selectMenu(PAResourceQtoS.SelectMenu_HIGHLIGHT, "Highlight"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenuItem(PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER, "Edit in IP Packager"); // ak
+// Run Command: PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER
+// j (cr): Edit in IP Packager: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// bz (cr):  Edit in IP Packager : addNotify
+selectButton("OptionPane.button", "OK"); // JButton
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_ADD
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: ipx::edit_ip_in_project -upgrade true -name PopCount_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/PopCount_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0/component.xml 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/popcount_v1_0_project' 
+// TclEventType: PROJECT_NEW
+// WARNING: HEventQueue.dispatchEvent() is taking  3686 ms.
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: RSB_BITABEN_IPREPODATA_REFRESH
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PACKAGER_CURRENT_CORE
+// Run Command: PAResourceCommand.PACommandNames_IP_PACKAGER
+// [GUI Memory]: 177 MB (+185kb) [00:49:10]
+// Tcl Message: create_project: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1115.734 ; gain = 0.000 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'. INFO: [IP_Flow 19-795] Syncing license key meta-data 
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: PACKAGER_MESSAGE_UPDATE
+// Tcl Message: ipx::edit_ip_in_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:07 . Memory (MB): peak = 1115.734 ; gain = 0.000 
+// 'i' command handler elapsed time: 11 seconds
+dismissDialog("Edit in IP Packager"); // bz
+// TclEventType: PACKAGER_MESSAGE_UPDATE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PACKAGER_MESSAGE_UPDATE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// Tcl Message: update_compile_order -fileset sources_1 
+closeMainWindow("PopCount_v1_0_project - [c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/popcount_v1_0_project/PopCount_v1_0_project.xpr] - Vivado 2020.2"); // cr
+// Run Command: PAResourceCommand.PACommandNames_CLOSE_PROJECT
+// A (cr): Close Project: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// bz (cr):  Close Project : addNotify
+// TclEventType: PROJECT_CLOSE
+dismissDialog("Close Project"); // A
+// HMemoryUtils.trashcanNow. Engine heap size: 1,142 MB. GUI used memory: 113 MB. Current time: 6/10/22, 6:20:11 PM BST
+// Tcl Message: close_project 
+dismissDialog("Close Project"); // bz
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 238, 463, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectView(PAResourceOtoP.PAViews_SYSTEM, "System", 259, 446, 1065, 614, false, false, false, true, false); // hv - Popup Trigger
+selectMenu(PAResourceQtoS.SystemBuilderMenu_IP_DOCUMENTATION, "IP Documentation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_PINNING, "Pinning"); // ah
+selectMenu(PAResourceQtoS.SystemBuilderView_ORIENTATION, "Orientation"); // ah
+selectMenuItem(PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER, "Edit in IP Packager"); // ak
+// Run Command: PAResourceCommand.PACommandNames_EDIT_IN_IP_PACKAGER
+// j (cr): Edit in IP Packager: addNotify
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// bz (cr):  Edit in IP Packager : addNotify
+selectButton("OptionPane.button", "OK"); // JButton
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_ADD
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: ipx::edit_ip_in_project -upgrade true -name ReverseEndiannessCop_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/CustomCopr_AXIStream/CustomCopr_AXIStream.tmp/ReverseEndiannessCop_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0/component.xml 
+// Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project' 
+// TclEventType: PROJECT_NEW
+// WARNING: HEventQueue.dispatchEvent() is taking  3644 ms.
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'. 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: RSB_BITABEN_IPREPODATA_REFRESH
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PACKAGER_CURRENT_CORE
+// Run Command: PAResourceCommand.PACommandNames_IP_PACKAGER
+// Tcl Message: create_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:05 . Memory (MB): peak = 1118.172 ; gain = 2.438 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/PopCount_1.0'. INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao8/ip_repo/ReverseEndiannessCop_1.0'. INFO: [IP_Flow 19-795] Syncing license key meta-data 
+// TclEventType: PACKAGER_MESSAGE_RESET
+// TclEventType: PACKAGER_MESSAGE_UPDATE
+// Tcl Message: ipx::edit_ip_in_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:07 . Memory (MB): peak = 1119.980 ; gain = 4.246 
+// 'i' command handler elapsed time: 11 seconds
+dismissDialog("Edit in IP Packager"); // bz
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 187 MB (+1208kb) [00:49:52]
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1); // D
+// PAPropertyPanels.initPanels (ReverseEndiannessCop_v1_0.vhd) elapsed time: 0.2s
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ReverseEndiannessCop_v1_0(arch_imp) (ReverseEndiannessCop_v1_0.vhd)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+selectCodeEditor("ReverseEndiannessCop_v1_0.vhd", 17, 226); // bP
+// Tcl Message: current_project CustomCopr_AXIStream 
+// Elapsed time: 688 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Package IP - ReverseEndiannessCop", 1); // m
+// Run Command: PAResourceCommand.PACommandNames_CUSTOMIZE_RSB_BLOC
+// r (cr): Re-customize IP: addNotify
+// WARNING: HEventQueue.dispatchEvent() is taking  2078 ms.
+// Elapsed time: 12 seconds
+dismissDialog("Re-customize IP"); // r
+// Run Command: PAResourceCommand.PACommandNames_CUSTOMIZE_RSB_BLOC
+// r (cr): Re-customize IP: addNotify
+// WARNING: HEventQueue.dispatchEvent() is taking  1321 ms.
+// Elapsed time: 63 seconds
+selectTab(PAResourceEtoH.HACGCTabbedPane_TABBED_PANE, (HResource) null, "IP Symbol", 0); // bi
+selectTab(PAResourceEtoH.HACGCTabbedPane_TABBED_PANE, (HResource) null, "Resources", 1); // bi
+// Elapsed time: 27 seconds
+closeMainWindow("ReverseEndiannessCop_v1_0_project - [c:/academico/ua/4ano/2semestre/cr/pratica/guiao8/customcopr_axistream/customcopr_axistream.tmp/reverseendiannesscop_v1_0_project/ReverseEndiannessCop_v1_0_project.xpr] - Vivado 2020.2"); // cr
+// HOptionPane Warning: 'A background task is running. Please wait until it completes to exit Vivado. If you choose to abort background task and exit immediately, you will lose all unsaved changes to project. (Background Task)'

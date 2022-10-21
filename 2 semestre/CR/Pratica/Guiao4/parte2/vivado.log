@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Jun 12 10:15:40 2022
+# Process ID: 15100
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14236 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao4\parte2\parte2.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2/parte2.xpr
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2/parte2.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:06 . Memory (MB): peak = 1000.160 ; gain = 0.000
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Sun Jun 12 10:55:31 2022] Launched synth_1...
+Run output will be captured here: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao4/parte2/parte2.runs/synth_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jun 12 11:49:02 2022...

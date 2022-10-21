@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue May  3 20:47:46 2022
+# Process ID: 16276
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15548 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao5\MB_basePlataform\MB_basePlataform.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao5/MB_basePlataform/MB_basePlataform.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:28 ; elapsed = 00:00:13 . Memory (MB): peak = 999.422 ; gain = 0.000
+ipt: 
+    while executing
+"namespace eval ::xilinx.com_interface_aximm_1.0 { source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/AXIMM/busdef.tcl} }"
+ERROR: [BD 41-69] Error sourcing TCL script: 
+    while executing
+"source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/clock_signal/busdef.tcl} "
+    (in namespace eval "::xilinx.com_signal_clock_1.0" script line 1)
+    invoked from within
+"namespace eval ::xilinx.com_signal_clock_1.0 { source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/clock_signal/busdef.tcl} }"
+ERROR: [BD 41-69] Error sourcing TCL script: 
+    while executing
+"source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/gt_outclk/busdef.tcl} "
+    (in namespace eval "::xilinx.com_signal_gt_outclk_1.0" script line 1)
+    invoked from within
+"namespace eval ::xilinx.com_signal_gt_outclk_1.0 { source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/gexit
+INFO: [Common 17-206] Exiting Vivado at Tue May  3 21:55:31 2022...
+ while executing
+"source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/gt_usrclk/busdef.tcl} "
+    (in namespace eval "::xilinx.com_signal_gt_usrclk_1.0" script line 1)
+    invoked from within
+"namespace eval ::xilinx.com_signal_gt_usrclk_1.0 { source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/gt_usrclk/busdef.tcl} }"
+ERROR: [BD 41-69] Error sourcing TCL script: 
+    while executing
+"source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/interrupt_signal/busdef.tcl} "
+    (in namespace eval "::xilinx.com_signal_interrupt_1.0" script line 1)
+    invoked from within
+"namespace eval ::xilinx.com_signal_interrupt_1.0 { source -notrace {C:/Xilinx/Vivado/2020.2/data/rsb/busdef/interrupt_signal/busdef.tcl} }"
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue May  3 20:48:19 2022...

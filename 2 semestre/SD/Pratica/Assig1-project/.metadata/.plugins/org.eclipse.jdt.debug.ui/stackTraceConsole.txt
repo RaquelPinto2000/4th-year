@@ -1,0 +1,2 @@
+ true if the student was the last to eat - 
+	 * 		   false, otherwise 

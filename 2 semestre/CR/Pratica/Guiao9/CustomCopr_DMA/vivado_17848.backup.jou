@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jun 16 09:30:50 2022
+# Process ID: 17848
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16752 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao9\CustomCopr_DMA\CustomCopr_DMA.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/CustomCopr_DMA.xpr
+update_compile_order -fileset sources_1
+open_bd_design {C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/CustomCopr_DMA.srcs/sources_1/bd/mb_design/mb_design.bd}
+ipx::edit_ip_in_project -upgrade true -name ReverseEndiannessCop_v1_0_project -directory C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/CustomCopr_DMA.tmp/ReverseEndiannessCop_v1_0_project c:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/ip_repo/ReverseEndiannessCop_1.0/component.xml
+update_compile_order -fileset sources_1
+current_project CustomCopr_DMA
+current_project ReverseEndiannessCop_v1_0_project
+current_project CustomCopr_DMA
+current_project ReverseEndiannessCop_v1_0_project
+current_project CustomCopr_DMA
+current_project ReverseEndiannessCop_v1_0_project
+current_project CustomCopr_DMA
+close_project

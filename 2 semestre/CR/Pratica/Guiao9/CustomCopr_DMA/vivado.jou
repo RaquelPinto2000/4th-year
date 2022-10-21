@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jun 17 23:41:44 2022
+# Process ID: 13788
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6540 C:\Academico\UA\4ano\2semestre\CR\Pratica\Guiao9\CustomCopr_DMA\CustomCopr_DMA.xpr
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/vivado.log
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao9/CustomCopr_DMA/CustomCopr_DMA.xpr
+update_compile_order -fileset sources_1

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Mar 27 14:53:57 2022
+# Process ID: 9716
+# Current directory: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao3/parte1/parte1.runs/synth_1
+# Command line: vivado.exe -log display_driver.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source display_driver.tcl
+# Log file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao3/parte1/parte1.runs/synth_1/display_driver.vds
+# Journal file: C:/Academico/UA/4ano/2semestre/CR/Pratica/Guiao3/parte1/parte1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source display_driver.tcl -notrace

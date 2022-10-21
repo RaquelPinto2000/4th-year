@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+/home/raquel/Desktop/SD/Pratica/Assig1/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+4188380411.index
+630189889.index
+3627247428.index
+997633452.index
+1384701911.index
