@@ -1,0 +1,19 @@
+VM0 Description (Core)
+
+Settings not listed here => defaults values were used.
+
+VM0
+	ip: 10.0.2.4
+
+Core:
+	amf:
+		ngap:
+      			- addr: 10.0.2.4
+		network_name:
+			full: Open5GS
+		    	amf_name: open5gs-amf0
+
+
+
+
+
