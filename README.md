@@ -43,7 +43,7 @@
     - Use CUDA
 
 #### CR: Developed with [Lúcia Sousa](https://github.com/luciasousa) in 2022
-* [Project]() - Accelerating palindrome checking and counting with a Hardware Coprocessor 
+* [Project](https://github.com/RaquelPinto2000/Project_CR) - Accelerating palindrome checking and counting with a Hardware Coprocessor 
     - Use Nexys 4, Vivado, Vitis, VHDL and C
 
 #### EGS: Developed with [Lúcia Sousa](https://github.com/luciasousa), [Rafael Dias](https://github.com/rafaeldsd) and [Sérgio Gasalho](https://github.com/psagasalho) in 2022
