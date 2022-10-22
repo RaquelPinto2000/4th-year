@@ -1,0 +1,45 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+
+  db_auth:
+    image: mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    volumes:
+      - db_auth_data:/var/lib/mysql
+    cap_add:
+      - SYS_NICE  # CAP_SYS_NICE
+    networks:
+        - internal
+
+  adminer_auth:
+    image: adminer
+    restart: always
+    ports:
+        - 5680:8080
+
+  api_auth:
+      container_name: auth_api      
+      build:
+        context: .
+        dockerfile: dockerfile
+      environment:
+            SECRET_KEY : 'thisissecret'
+      ports:
+        - 7001:5000
+      networks:
+        - internal
+      volumes:
+        - /home/raquel/Desktop/EGS/Pratica/Projeto/Secrets_EGS/Authentication/authentication_db_secret.txt:/var/run/Authentication/authentication_db_secret.txt:ro
+
+volumes:
+  db_auth_data:
+
+networks:
+  internal:
+    external:
+      name: "internal"

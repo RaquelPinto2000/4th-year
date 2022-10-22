@@ -1,0 +1,47 @@
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+
+  db_payments:
+    image: mysql
+    ports:
+      - "3306:3306"
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+    volumes:
+      - db_payment_data:/var/lib/mysql
+    cap_add:
+      - SYS_NICE  # CAP_SYS_NICE
+    networks:
+        - internal
+
+  adminer_payment:
+    image: adminer
+    restart: always
+    ports:
+        - 5679:8080
+
+  api_payments:
+      container_name: payments_api      
+      build:
+        context: .
+        dockerfile: dockerfile
+      environment:
+            SECRET_KEY : 'thisissecret'  
+      ports:
+        - 7002:5000
+      networks:
+        - internal
+      volumes:
+        - /home/lucia/Documents/EGS/Secrets_EGS/Payment/secret.txt:/var/run/Payment/secret.txt:ro
+
+volumes:
+  db_payment_data: 
+    
+networks:
+  internal:
+    external:
+      name: "internal"

@@ -1,0 +1,45 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: filemanagerapi-deployment
+  namespace: egs10
+  labels:
+    app: filemanagerapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: filemanagerapi
+  template:
+    metadata:
+      labels:
+        app: filemanagerapi
+    spec:
+      containers:
+        - name: filemanagerapi
+          image: registry.deti:5000/egs10/api-filemanager:2022062401
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 6000
+          env:
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: filemanagerapi-secrets
+                  key: DB_PASSWORD
+            - name: DB_NAME
+              value: testdb
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: filemanagerapi-service
+  namespace: egs10
+spec:
+  ports:
+  - port: 6000
+    protocol: TCP
+    targetPort: 5000
+  selector:
+    app: filemanagerapi

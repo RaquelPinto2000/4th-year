@@ -1,0 +1,46 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authapi-deployment
+  namespace: egs10
+  labels:
+    app: authapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: authapi
+  template:
+    metadata:
+      labels:
+        app: authapi
+    spec:
+      containers:
+        - name: authapi
+          image: registry.deti:5000/egs10/api-auth:2022062401
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 6000
+          env:
+            - name: db_root_password
+              valueFrom:
+                secretKeyRef:
+                  name: flaskapi-secrets
+                  key: db_root_password
+            - name: db_name
+              value: flaskapi
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authapi-service
+  namespace: egs10
+spec:
+  ports:
+  - port: 6000
+    protocol: TCP
+    targetPort: 5000
+  selector:
+    app: authapi

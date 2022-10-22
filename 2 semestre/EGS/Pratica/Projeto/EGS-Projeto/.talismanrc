@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: Authentication/docker-compose.yaml
+  checksum: 43c921983eacd5f23d3d57214e4dbd5d50324b7252bf1374ed42e0a5717163c6
+- filename: Payment/app/app.py
+  checksum: b774778e7e68f9135aa58604413efd1bec2a7e90c724437ffb52bd028f5118b7
+- filename: Payment/docker-compose.yaml
+  checksum: 855c5a8d5642a942e7cda2b9de7f81350f30ed25eb85c9f897a2b4aac877a31a
+- filename: agregator/video_sharing/main/templates/payment_page.html
+  checksum: bc4b7e22668ed7472e2702744f8dd04ca8b7bdb8c1b32bd8687351537e0fda34
+version: "1.0"
