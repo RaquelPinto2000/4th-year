@@ -36,7 +36,7 @@
 
 #### ASE: Developed with [Lúcia Sousa](https://github.com/luciasousa) in 2022
 * [Project ESP 32](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/ASE/ESP32/ESP32-project) - I2C, PWM, SPI, DAC, ADC, UART, OTA
-    - Use Temperature Sensor, Potentiometer, Leds, Memory, Resistors (10k Ohms)
+    - Use Temperature Sensor, Potentiometer, Leds, Memory, Resistors (10k Ohms) and C Language
 * [Project Raspberry PI Model 4](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/ASE/Raspberry_Pi4B/Projeto_Raspberry) - STOP Button for a Bus
     - Use Button, Buzzer, LCD Display, Led, Temperature Sensor, Potentiometer, Resistors (10k Ohms) and Python Language
 * [Project Jetson Nano](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/ASE/JetsonNano/App_JetsonNano_Project) - Compare CPU and GPU 
@@ -46,9 +46,9 @@
 * [Project]() - Accelerating palindrome checking and counting with a Hardware Coprocessor 
     - Use Nexys 4, Vivado, Vitis, VHDL and C
 
-#### EGS: Developed with [Lúcia Sousa](https://github.com/luciasousa), Rafael Dias and Sérgio Gasalho in 2022
-* [Project]()- Photography Course Application 
-    - Use Spring, MySQL, Flask, django, Postgre SQL, HTML5, Kubernets and Docker.
+#### EGS: Developed with [Lúcia Sousa](https://github.com/luciasousa), [Rafael Dias]() and [Sérgio Gasalho]() in 2022
+* [Project](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/EGS/Pratica/Projeto)- Photography Course Application 
+    - Use Spring, MySQL, Flask, django, Postgre SQL, HTML5, Kubernets and Docker
 
 #### SD: Developed with [Rodrigo Martins](https://github.com/rodrigo740) in 2022
 * [Project 1]() - Concurrent solution to the Restaurant Problem 
