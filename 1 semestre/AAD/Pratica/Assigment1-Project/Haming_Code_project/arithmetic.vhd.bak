@@ -1,0 +1,64 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY flipFlop IS
+  PORT (clk, D:     IN STD_LOGIC;
+        nRst: IN STD_LOGIC;
+        Q:      OUT STD_LOGIC);
+END flipFlop;
+
+ARCHITECTURE behavior OF flipFlop IS
+BEGIN
+  PROCESS (clk, nRst)
+  BEGIN
+    IF (nRst = '0')
+	    THEN Q <= '0';
+		 ELSIF (clk = '1') AND (clk'EVENT)
+			THEN Q <= D;
+		                 
+	 END IF;
+  END PROCESS;
+END behavior;
+
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+ENTITY MUX2_1 IS -- nos precisamos de um de 1 bit, pois o bit serial e so de um bit
+  PORT (Sout:     	IN STD_LOGIC; -- selecionar a saida
+        dataIn0: 		IN STD_LOGIC;
+		  dataIn1: 		IN STD_LOGIC;
+        dataOut:     OUT STD_LOGIC);
+END MUX2_1;
+
+ARCHITECTURE behavior OF MUX2_1 IS
+BEGIN
+	dataOut <= dataIn1 when (Sout='1') else dataIn0;
+	
+END behavior;
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
+entity Mux4_1 is
+	port(sel0    : in  std_logic_vector(1 downto 0);
+		  dataIn : in  std_logic_vector(3 downto 0); -- dataIn(0) = x12, dataIn(1) = x13, dataIn(2) = x14, dataIn(0) = x15d
+		  dataOut : out std_logic);
+end Mux4_1;
+
+architecture Behavional of Mux4_1 is
+begin
+	process(dataIn)
+	begin
+		
+		if (sel0 = "00") then
+			dataOut <= dataIn(0);
+		elsif (sel0 = "01") then
+			dataOut <= dataIn(1);
+		elsif (sel0 = "10") then
+			dataOut <= dataIn(2);
+		else 
+			dataOut <= dataIn(3);
+	end if;
+	end process;
+end Behavional;
