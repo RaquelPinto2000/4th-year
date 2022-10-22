@@ -1,20 +1,18 @@
-# 4 Year
+# 4th Year
 
-## 1 semestre Projects
-
-<hr>
+## Projects of the 1st semester
 
 #### AAD: Developed with [Marco Ramos](https://github.com/MarcoASRamos) in 2021
-* Assigment 1 - Haming Code 
+* [Assigment 1](https://github.com/RaquelPinto2000/4ano/tree/main/1%20semestre/AAD/Pratica/Assigment1-Project) - Haming Code 
     - Use Quartus and VHDL
-* Assigment 2 - Proof of Work 
+* [Assigment 2](https://github.com/RaquelPinto2000/4ano/tree/main/1%20semestre/AAD/Pratica/Assigment2-Project) - Proof of Work 
     - Use CUDA
 
-### CM: Developed with Rodrigo Martins
+#### CM: Developed with [Rodrigo Martins]() in 2021
 * Project - 5G System 
-    - Use 5G Core = Open5GS, 5G Access = UERANSIM and Wireshark
+    - Use 5G Core (Open5GS), 5G Access (UERANSIM) and Wireshark
 
-### IC: Developed with Alexandre Oliveira, Pedro Loureiro
+#### IC: Developed with [Alexandre Oliveira]() and [Pedro Loureiro]()
 * Project 1 - Manipulating text, audio and image/video 
     - Use OpenCV with C++
 * Project 2 - Entropy coding of audio and images 
@@ -34,7 +32,7 @@
 * Project 2 - Robotic challenge solver (Control, Mapping and Planning challenge) 
     - Use CiberRato simulation environment (without GPS) and Java
 
-## 2 semestre Projects
+## Projects of the 2nd semester
 
 ### ASE: Developed with Lúcia Sousa
 * Project ESP 32 - 
@@ -59,4 +57,3 @@
 * Project 3 - Distributed solution to the Restaurant problem based on Java RMI
     - Use JAVA
 
-<br>
