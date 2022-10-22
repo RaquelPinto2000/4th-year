@@ -1,0 +1,1614 @@
+Status: Ok
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.5 ir2=2.5 ir3=0.7
+bussola=-4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.6 ir3=0.7
+bussola=4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.6 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.3 ir2=2.6 ir3=0.6
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.8 ir1=2.6 ir2=2.5 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.3 ir2=2.5 ir3=0.6
+bussola=-5.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.6
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.6 ir2=2.6 ir3=0.5
+bussola=3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.6 ir3=0.7
+bussola=3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.2 ir2=2.4 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.4 ir3=0.6
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.4 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.7 ir3=0.7
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.5 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.5 ir3=0.6
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.4 ir2=2.2 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.8 ir1=2.6 ir2=2.6 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.6 ir2=2.6 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.3
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.4 ir2=2.4 ir3=0.6
+bussola=4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.7
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.5 ir3=0.7
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.5 ir3=0.7
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.4 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.4 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.7 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.6 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.3 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.3 ir2=2.4 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.5 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.4 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.4 ir3=0.4
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.3 ir3=0.4
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.6 ir3=0.7
+bussola=-4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.7 ir2=2.5 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.4 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.4 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.4 ir2=2.4 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.3 ir2=2.5 ir3=0.7
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.4 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.8 ir2=2.3 ir3=0.8
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.4 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.6 ir3=0.6
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.7 ir2=2.4 ir3=0.5
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.6 ir2=2.4 ir3=0.8
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.6 ir3=0.5
+bussola=3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.5 ir2=2.3 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.5
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.6 ir3=0.6
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.6 ir3=0.7
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.4 ir3=0.6
+bussola=-4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.3 ir2=2.6 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.5 ir2=2.5 ir3=0.7
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.5 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.4 ir3=0.8
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.7 ir2=2.4 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.3 ir3=0.4
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.4 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.3 ir2=2.6 ir3=0.7
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.5 ir3=0.3
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.5 ir3=0.4
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.7 ir2=2.6 ir3=0.7
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.4 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.4
+bussola=3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.5 ir2=2.5 ir3=0.5
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.7 ir2=2.4 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.3 ir2=2.4 ir3=0.6
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.4 ir2=2.2 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.3 ir1=2.4 ir2=2.3 ir3=0.7
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.6 ir3=0.7
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.6 ir2=2.6 ir3=0.6
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.4 ir1=2.5 ir2=2.5 ir3=0.7
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.3 ir3=0.5
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.5
+bussola=2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.5 ir2=2.5 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.5 ir3=0.5
+bussola=4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.5 ir3=0.6
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.7 ir3=0.6
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.8 ir1=2.3 ir2=2.4 ir3=0.7
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.5 ir2=2.4 ir3=0.2
+bussola=1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.6 ir3=0.7
+bussola=-4.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.6
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.6 ir2=2.4 ir3=0.5
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.6 ir2=2.6 ir3=0.5
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.5 ir2=2.5 ir3=0.7
+bussola=0.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.7 ir1=2.5 ir2=2.6 ir3=0.6
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.6 ir2=2.5 ir3=0.5
+bussola=-3.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.8 ir1=2.4 ir2=2.4 ir3=0.4
+bussola=-2.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.6 ir1=2.4 ir2=2.6 ir3=0.6
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.5 ir2=2.5 ir3=0.7
+bussola=-1.0 X=0.0 Y=0.0
+f: false esq: true dir: true tras: false
+Estou no meio
+init: true targetReached? true
+
+Estou no meio
+alvo: 0
+Mapping decode next x= 2.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+xsensor -> 0.05 xcalculado -> 0.05 media x -> 0.05
+ysensor -> 0.0 ycalculado -> 0.0 media y -> 0.0
+xsensor -> 0.1249543120264322 xcalculado -> 0.1249543120264322 media x -> 0.1249543120264322
+ysensor -> 0.0 ycalculado -> -0.002617462252687573 media y -> -0.002617462252687573
+xsensor -> 0.21244098535261646 xcalculado -> 0.21244098535261646 media x -> 0.21244098535261646
+ysensor -> 0.0 ycalculado -> -0.001090376689425266 media y -> -0.001090376689425266
+xsensor -> 0.30613387538565673 xcalculado -> 0.30613387538565673 media x -> 0.30613387538565673
+ysensor -> 0.0 ycalculado -> 0.002181451126434201 media y -> 0.002181451126434201
+xsensor -> 0.40294986175313163 xcalculado -> 0.40294986175313163 media x -> 0.40294986175313163
+ysensor -> 0.0 ycalculado -> 0.005562339869488983 media y -> 0.005562339869488983
+xsensor -> 0.501252456580535 xcalculado -> 0.501252456580535 media x -> 0.501252456580535
+ysensor -> 0.0 ycalculado -> 4.1051917682419833E-4 media y -> 4.1051917682419833E-4
+xsensor -> 0.600471206580535 xcalculado -> 0.600471206580535 media x -> 0.600471206580535
+ysensor -> 0.0 ycalculado -> 4.1051917682419833E-4 media y -> 4.1051917682419833E-4
+xsensor -> 0.7000654105902536 xcalculado -> 0.7000654105902536 media x -> 0.7000654105902536
+ysensor -> 0.0 ycalculado -> -0.001327904120639589 media y -> -0.001327904120639589
+xsensor -> 0.7998700980902537 xcalculado -> 0.7998700980902537 media x -> 0.7998700980902537
+ysensor -> 0.0 ycalculado -> -0.001327904120639589 media y -> -0.001327904120639589
+xsensor -> 0.8997115840317121 xcalculado -> 0.8997115840317121 media x -> 0.8997115840317121
+ysensor -> 0.0 ycalculado -> 0.0021586373956356546 media y -> 0.0021586373956356546
+xsensor -> 0.9995257762994179 xcalculado -> 0.9995257762994179 media x -> 0.9995257762994179
+ysensor -> 0.0 ycalculado -> -0.0030724027620453033 media y -> -0.0030724027620453033
+xsensor -> 1.0994404598112146 xcalculado -> 1.0994404598112146 media x -> 1.0994404598112146
+ysensor -> 0.0 ycalculado -> 4.1669486971108007E-4 media y -> 4.1669486971108007E-4
+xsensor -> 1.1993673429180678 xcalculado -> 1.1993673429180678 media x -> 1.1993673429180678
+ysensor -> 0.0 ycalculado -> -0.003072828781292161 media y -> -0.003072828781292161
+xsensor -> 1.2993003258224491 xcalculado -> 1.2993003258224491 media x -> 1.2993003258224491
+ysensor -> 0.0 ycalculado -> 4.169078793345082E-4 media y -> 4.169078793345082E-4
+xsensor -> 1.3992820440450733 xcalculado -> 1.3992820440450733 media x -> 1.3992820440450733
+ysensor -> 0.0 ycalculado -> 0.0021620952625451676 media y -> 0.0021620952625451676
+xsensor -> 1.4992196017976007 xcalculado -> 1.4992196017976007 media x -> 1.4992196017976007
+ysensor -> 0.0 ycalculado -> -0.0013278011552990722 media y -> -0.0013278011552990722
+xsensor -> 1.599203608489986 xcalculado -> 1.599203608489986 media x -> 1.599203608489986
+ysensor -> 0.0 ycalculado -> -0.0030730284838980004 media y -> -0.0030730284838980004
+xsensor -> 1.699066181018508 xcalculado -> 1.699066181018508 media x -> 1.699066181018508
+ysensor -> 0.0 ycalculado -> 0.0021605471758134663 media y -> 0.0021605471758134663
+xsensor -> 1.7989289440204976 xcalculado -> 1.7989289440204976 media x -> 1.7989289440204976
+ysensor -> 0.0 ycalculado -> -0.003073038466189459 media y -> -0.003073038466189459
+xsensor -> 1.8987918022592212 xcalculado -> 1.8987918022592212 media x -> 1.8987918022592212
+ysensor -> 0.0 ycalculado -> 0.0021605521669591956 media y -> 0.0021605521669591956
+Estou no meio
+
+ Measures: ir0=0.4 ir1=0.4 ir2=2.5 ir3=0.6
+bussola=3.0 X=1.8987918022592212 Y=0.0021605521669591956
+f: false esq: false dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 4.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+xsensor -> 1.9987308373064625 xcalculado -> 1.9987308373064625 media x -> 1.9987308373064625
+ysensor -> 0.0 ycalculado -> -0.0013293958391532184 media y -> -0.0013293958391532184
+xsensor -> 2.0987308134646048 xcalculado -> 2.0987308134646048 media x -> 2.0987308134646048
+ysensor -> 0.0 ycalculado -> -0.0013293958391532184 media y -> -0.0013293958391532184
+xsensor -> 2.198669884252847 xcalculado -> 2.198669884252847 media x -> 2.198669884252847
+ysensor -> 0.0 ycalculado -> 0.0021605534150624574 media y -> 0.0021605534150624574
+xsensor -> 2.2986546478089296 xcalculado -> 2.2986546478089296 media x -> 2.2986546478089296
+ysensor -> 0.0 ycalculado -> 4.153128753585549E-4 media y -> 4.153128753585549E-4
+xsensor -> 2.398654644828697 xcalculado -> 2.398654644828697 media x -> 2.398654644828697
+ysensor -> 0.0 ycalculado -> 4.153128753585549E-4 media y -> 4.153128753585549E-4
+xsensor -> 2.4986546433385812 xcalculado -> 2.4986546433385812 media x -> 2.4986546433385812
+ysensor -> 0.0 ycalculado -> 4.153128753585549E-4 media y -> 4.153128753585549E-4
+xsensor -> 2.598639412109276 xcalculado -> 2.598639412109276 media x -> 2.598639412109276
+ysensor -> 0.0 ycalculado -> 0.00216055350608385 media y -> 0.00216055350608385
+xsensor -> 2.698624181252443 xcalculado -> 2.698624181252443 media x -> 2.698624181252443
+ysensor -> 0.0 ycalculado -> 0.0039057941433106734 media y -> 0.0039057941433106734
+xsensor -> 2.7985632637682016 xcalculado -> 2.7985632637682016 media x -> 2.7985632637682016
+ysensor -> 0.0 ycalculado -> 0.007395743807060233 media y -> 0.007395743807060233
+xsensor -> 2.8985632636750696 xcalculado -> 2.8985632636750696 media x -> 2.8985632636750696
+ysensor -> 0.0 ycalculado -> 0.007395743807060233 media y -> 0.007395743807060233
+xsensor -> 2.998426217104025 xcalculado -> 2.998426217104025 media x -> 2.998426217104025
+ysensor -> 0.0 ycalculado -> 0.012629339428917533 media y -> 0.012629339428917533
+xsensor -> 3.0984109865963845 xcalculado -> 3.0984109865963845 media x -> 3.0984109865963845
+ysensor -> 0.0 ycalculado -> 0.010884098785595528 media y -> 0.010884098785595528
+xsensor -> 3.1982739400602163 xcalculado -> 3.1982739400602163 media x -> 3.1982739400602163
+ysensor -> 0.0 ycalculado -> 0.005650503161910415 media y -> 0.005650503161910415
+xsensor -> 3.2982587095700353 xcalculado -> 3.2982587095700353 media x -> 3.2982587095700353
+ysensor -> 0.0 ycalculado -> 0.00739574380553718 media y -> 0.00739574380553718
+xsensor -> 3.3981216630425863 xcalculado -> 3.3981216630425863 media x -> 3.3981216630425863
+ysensor -> 0.0 ycalculado -> 0.0021621481813951142 media y -> 0.0021621481813951142
+xsensor -> 3.4980607457430417 xcalculado -> 3.4980607457430417 media x -> 3.4980607457430417
+ysensor -> 0.0 ycalculado -> -0.0013278014888041972 media y -> -0.0013278014888041972
+xsensor -> 3.5978171507682983 xcalculado -> 3.5978171507682983 media x -> 3.5978171507682983
+ysensor -> 0.0 ycalculado -> -0.008303448863165972 media y -> -0.008303448863165972
+xsensor -> 3.697680104243392 xcalculado -> 3.697680104243392 media x -> 3.697680104243392
+ysensor -> 0.0 ycalculado -> -0.013537044487441318 media y -> -0.013537044487441318
+xsensor -> 3.797543057718668 xcalculado -> 3.797543057718668 media x -> 3.797543057718668
+ysensor -> 0.0 ycalculado -> -0.018770640111726182 media y -> -0.018770640111726182
+xsensor -> 3.896311891778092 xcalculado -> 3.896311891778092 media x -> 3.896311891778092
+ysensor -> 0.0 ycalculado -> -0.03441408661573504 media y -> -0.03441408661573504
+Estou no meio
+
+ Measures: ir0=0.5 ir1=2.4 ir2=2.7 ir3=0.3
+bussola=-2.0 X=3.896311891778092 Y=-0.03441408661573504
+f: false esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 6.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+xsensor -> 3.9963118917780465 xcalculado -> 3.9963118917780465 media x -> 3.9963118917780465
+ysensor -> 0.0 ycalculado -> -0.03441408661573504 media y -> -0.03441408661573504
+xsensor -> 4.096311891778024 xcalculado -> 4.096311891778024 media x -> 4.096311891778024
+ysensor -> 0.0 ycalculado -> -0.03441408661573504 media y -> -0.03441408661573504
+xsensor -> 4.196296661293652 xcalculado -> 4.196296661293652 media x -> 4.196296661293652
+ysensor -> 0.0 ycalculado -> -0.0361593272594632 media y -> -0.0361593272594632
+xsensor -> 4.2961596147691035 xcalculado -> 4.2961596147691035 media x -> 4.2961596147691035
+ysensor -> 0.0 ycalculado -> -0.030925731635169113 media y -> -0.030925731635169113
+xsensor -> 4.395779084578275 xcalculado -> 4.395779084578275 media x -> 4.395779084578275
+ysensor -> 0.0 ycalculado -> -0.02221015736040354 media y -> -0.02221015736040354
+xsensor -> 4.4939418029230405 xcalculado -> 4.4939418029230405 media x -> 4.4939418029230405
+ysensor -> 0.0 ycalculado -> -0.0031292578227493303 media y -> -0.0031292578227493303
+xsensor -> 4.592104521267806 xcalculado -> 4.592104521267806 media x -> 4.592104521267806
+ysensor -> 0.0 ycalculado -> 0.015951641714905016 media y -> 0.015951641714905016
+xsensor -> 4.689919281341186 xcalculado -> 4.689919281341186 media x -> 4.689919281341186
+ysensor -> 0.0 ycalculado -> 0.036742810796680875 media y -> 0.036742810796680875
+xsensor -> 4.7386377845804475 xcalculado -> 4.7386377845804475 media x -> 4.7386377845804475
+ysensor -> 0.0 ycalculado -> 0.04799036351387408 media y -> 0.04799036351387408
+xsensor -> 4.810360641277675 xcalculado -> 4.810360641277675 media x -> 4.810360641277675
+ysensor -> 0.0 ycalculado -> 0.06991824136807932 media y -> 0.06991824136807932
+xsensor -> 4.89720842954629 xcalculado -> 4.89720842954629 media x -> 4.89720842954629
+ysensor -> 0.0 ycalculado -> 0.08058180891602973 media y -> 0.08058180891602973
+xsensor -> 4.990944150967202 xcalculado -> 4.990944150967202 media x -> 4.990944150967202
+ysensor -> 0.0 ycalculado -> 0.0789456458125344 media y -> 0.0789456458125344
+xsensor -> 5.086626458962356 xcalculado -> 5.086626458962356 media x -> 5.086626458962356
+ysensor -> 0.0 ycalculado -> 0.06379105701176202 media y -> 0.06379105701176202
+xsensor -> 5.134328084498884 xcalculado -> 5.134328084498884 media x -> 5.134328084498884
+ysensor -> 0.0 ycalculado -> 0.0553799734060201 media y -> 0.0553799734060201
+xsensor -> 5.204503291281646 xcalculado -> 5.204503291281646 media x -> 5.204503291281646
+ysensor -> 0.0 ycalculado -> 0.031216711942403 media y -> 0.031216711942403
+xsensor -> 5.289380058643797 xcalculado -> 5.289380058643797 media x -> 5.289380058643797
+ysensor -> 0.0 ycalculado -> 0.011621366192917874 media y -> 0.011621366192917874
+xsensor -> 5.331818442324873 xcalculado -> 5.331818442324873 media x -> 5.331818442324873
+ysensor -> 0.0 ycalculado -> 0.0018236933181753363 media y -> 0.0018236933181753363
+xsensor -> 5.400459457523391 xcalculado -> 5.400459457523391 media x -> 5.400459457523391
+ysensor -> 0.0 ycalculado -> -0.019161971034482042 media y -> -0.019161971034482042
+xsensor -> 5.486138908910453 xcalculado -> 5.486138908910453 media x -> 5.486138908910453
+ysensor -> 0.0 ycalculado -> -0.025153261919048268 media y -> -0.025153261919048268
+xsensor -> 5.578729563589048 xcalculado -> 5.578729563589048 media x -> 5.578729563589048
+ysensor -> 0.0 ycalculado -> -0.03325389455186893 media y -> -0.03325389455186893
+xsensor -> 5.675201731557799 xcalculado -> 5.675201731557799 media x -> 5.675201731557799
+ysensor -> 0.0 ycalculado -> -0.03325389455186893 media y -> -0.03325389455186893
+xsensor -> 6.333333333333333 xcalculado -> 5.773422853710766 media x -> 5.773422853710766
+ysensor -> 0.0 ycalculado -> -0.031539438487366504 media y -> -0.031539438487366504
+xsensor -> 6.375 xcalculado -> 5.872405057871209 media x -> 5.872405057871209
+ysensor -> 0.0 ycalculado -> -0.02635200097877711 media y -> -0.02635200097877711
+Estou no meio
+
+ Measures: ir0=2.0 ir1=0.9 ir2=0.4 ir3=0.8
+bussola=8.0 X=5.872405057871209 Y=-0.02635200097877711
+f: true esq: false dir: false tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 6.0 y= -2.0 compass_goal= -90.0 compass= 0.0
+xsensor -> 6.473684210526316 xcalculado -> 5.921211165979857 media x -> 5.921211165979857
+ysensor -> 0.0 ycalculado -> -0.017746167295848228 media y -> -0.017746167295848228
+xsensor -> 6.583333333333333 xcalculado -> 5.945355579229185 media x -> 5.945355579229185
+ysensor -> 0.0 ycalculado -> -0.012171990283187873 media y -> -0.012171990283187873
+xsensor -> 6.545454545454546 xcalculado -> 5.9576981877189175 media x -> 5.9576981877189175
+ysensor -> 0.0 ycalculado -> -0.011092151961997416 media y -> -0.011092151961997416
+xsensor -> 6.5 xcalculado -> 5.9637989512325 media x -> 5.9637989512325
+ysensor -> 0.0 ycalculado -> -0.012167881172363641 media y -> -0.012167881172363641
+xsensor -> 6.411764705882353 xcalculado -> 5.966533827375809 media x -> 5.966533827375809
+ysensor -> 0.0 ycalculado -> -0.01362204061218724 media y -> -0.01362204061218724
+xsensor -> 5.967754234922157 xcalculado -> 5.967754234922157 media x -> 5.967754234922157
+ysensor -> -0.014575527486629002 ycalculado -> -0.014575527486629002 media y -> -0.014575527486629002
+xsensor -> 5.968220256224784 xcalculado -> 5.968220256224784 media x -> 5.968220256224784
+ysensor -> -0.015193958643045279 ycalculado -> -0.015193958643045279 media y -> -0.015193958643045279
+xsensor -> 5.9821088452461355 xcalculado -> 5.9821088452461355 media x -> 5.9821088452461355
+ysensor -> -0.06362922460067766 ycalculado -> -0.06362922460067766 media y -> -0.06362922460067766
+xsensor -> 5.984733063689799 xcalculado -> 5.984733063689799 media x -> 5.984733063689799
+ysensor -> -0.13877700862312353 ycalculado -> -0.13877700862312353 media y -> -0.13877700862312353
+xsensor -> 5.978622620161901 xcalculado -> 5.978622620161901 media x -> 5.978622620161901
+ysensor -> -0.22616042219607632 ycalculado -> -0.22616042219607632 media y -> -0.22616042219607632
+xsensor -> 5.96233469937117 xcalculado -> 5.96233469937117 media x -> 5.96233469937117
+ysensor -> -0.3185338112559206 ycalculado -> -0.3185338112559206 media y -> -0.3185338112559206
+xsensor -> 5.940537122449369 xcalculado -> 5.940537122449369 media x -> 5.940537122449369
+ysensor -> -0.41294948981055407 ycalculado -> -0.41294948981055407 media y -> -0.41294948981055407
+xsensor -> 5.920068299783946 xcalculado -> 5.920068299783946 media x -> 5.920068299783946
+ysensor -> -0.5092477292278764 ycalculado -> -0.5092477292278764 media y -> -0.5092477292278764
+xsensor -> 5.911420288668396 xcalculado -> 5.911420288668396 media x -> 5.911420288668396
+ysensor -> -0.6080949485934685 ycalculado -> -0.6080949485934685 media y -> -0.6080949485934685
+xsensor -> 5.901007957590448 xcalculado -> 5.901007957590448 media x -> 5.901007957590448
+ysensor -> -0.7071616612871034 ycalculado -> -0.7071616612871034 media y -> -0.7071616612871034
+xsensor -> 5.902749815956435 xcalculado -> 5.902749815956435 media x -> 5.902749815956435
+ysensor -> -0.8069526602407283 ycalculado -> -0.8069526602407283 media y -> -0.8069526602407283
+xsensor -> 5.914924941152778 xcalculado -> 5.914924941152778 media x -> 5.914924941152778
+ysensor -> -0.9061110976437073 ycalculado -> -0.9061110976437073 media y -> -0.9061110976437073
+xsensor -> 5.923598936778499 xcalculado -> 5.923598936778499 media x -> 5.923598936778499
+ysensor -> -0.9553037713393068 ycalculado -> -0.9553037713393068 media y -> -0.9553037713393068
+xsensor -> 5.931316875698144 xcalculado -> 5.931316875698144 media x -> 5.931316875698144
+ysensor -> -0.9790571448932213 ycalculado -> -0.9790571448932213 media y -> -0.9790571448932213
+xsensor -> 5.947489931070095 xcalculado -> 5.947489931070095 media x -> 5.947489931070095
+ysensor -> -1.0394158092549652 ycalculado -> -1.0394158092549652 media y -> -1.0394158092549652
+xsensor -> 5.95032530381701 xcalculado -> 5.95032530381701 media x -> 5.95032530381701
+ysensor -> -1.1206102613871125 ycalculado -> -1.1206102613871125 media y -> -1.1206102613871125
+xsensor -> 5.955068091371645 xcalculado -> 5.955068091371645 media x -> 5.955068091371645
+ysensor -> -1.2111080389979576 ycalculado -> -1.2111080389979576 media y -> -1.2111080389979576
+xsensor -> 5.951741785932229 xcalculado -> 5.951741785932229 media x -> 5.951741785932229
+ysensor -> -1.3063609640574265 ycalculado -> -1.3063609640574265 media y -> -1.3063609640574265
+xsensor -> 5.956852679539108 xcalculado -> 5.956852679539108 media x -> 5.956852679539108
+ysensor -> -1.4038826235667308 ycalculado -> -1.4038826235667308 media y -> -1.4038826235667308
+xsensor -> 5.965466085188018 xcalculado -> 5.965466085188018 media x -> 5.965466085188018
+ysensor -> -1.5023343006386671 ycalculado -> -1.5023343006386671 media y -> -1.5023343006386671
+xsensor -> 5.987829340790237 xcalculado -> 5.987829340790237 media x -> 5.987829340790237
+ysensor -> -1.5992002027501337 ycalculado -> -1.5992002027501337 media y -> -1.5992002027501337
+xsensor -> 5.999010968591348 xcalculado -> 5.999010968591348 media x -> 5.999010968591348
+ysensor -> -1.647633153805867 ycalculado -> -1.647633153805867 media y -> -1.647633153805867
+xsensor -> 6.01838447178209 xcalculado -> 6.01838447178209 media x -> 6.01838447178209
+ysensor -> -1.719936052034316 ycalculado -> -1.719936052034316 media y -> -1.719936052034316
+xsensor -> 6.036561511902986 xcalculado -> 6.036561511902986 media x -> 6.036561511902986
+ysensor -> -1.8054523022882798 ycalculado -> -1.8054523022882798 media y -> -1.8054523022882798
+xsensor -> 6.047982298417022 xcalculado -> 6.047982298417022 media x -> 6.047982298417022
+ysensor -> -1.898467144138534 ycalculado -> -1.898467144138534 media y -> -1.898467144138534
+Estou no meio
+
+ Measures: ir0=0.6 ir1=0.2 ir2=2.4 ir3=0.5
+bussola=-89.0 X=6.047982298417022 Y=-1.898467144138534
+f: false esq: false dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 8.0 y= -2.0 compass_goal= 0.0 compass= -90.0
+xsensor -> 6.054503488365824 xcalculado -> 6.054503488365824 media x -> 6.054503488365824
+ysensor -> -1.9448678216541528 ycalculado -> -1.9448678216541528 media y -> -1.9448678216541528
+xsensor -> 6.054094607423113 xcalculado -> 6.054094607423113 media x -> 6.054094607423113
+ysensor -> -1.96829259517363 ycalculado -> -1.96829259517363 media y -> -1.96829259517363
+xsensor -> 6.055115564687242 xcalculado -> 6.055115564687242 media x -> 6.055115564687242
+ysensor -> -1.9799621901015103 ycalculado -> -1.9799621901015103 media y -> -1.9799621901015103
+xsensor -> 6.057309667512147 xcalculado -> 6.057309667512147 media x -> 6.057309667512147
+ysensor -> -1.985392785158476 ycalculado -> -1.985392785158476 media y -> -1.985392785158476
+xsensor -> 6.625 xcalculado -> 6.059072108517693 media x -> 6.059072108517693
+ysensor -> 0.0 ycalculado -> -1.9877316233682973 media y -> -1.9877316233682973
+xsensor -> 6.5 xcalculado -> 6.060225970096035 media x -> 6.060225970096035
+ysensor -> 0.0 ycalculado -> -1.988633118834434 media y -> -1.988633118834434
+xsensor -> 6.434782608695652 xcalculado -> 6.106925147215753 media x -> 6.106925147215753
+ysensor -> 0.0 ycalculado -> -2.008455743459466 media y -> -2.008455743459466
+xsensor -> 6.476190476190476 xcalculado -> 6.1817294478148295 media x -> 6.1817294478148295
+ysensor -> 0.0 ycalculado -> -2.0176405566621725 media y -> -2.0176405566621725
+xsensor -> 6.526315789473684 xcalculado -> 6.269078821318605 media x -> 6.269078821318605
+ysensor -> 0.0 ycalculado -> -2.0099984767145003 media y -> -2.0099984767145003
+xsensor -> 6.625 xcalculado -> 6.362691745059784 media x -> 6.362691745059784
+ysensor -> 0.0 ycalculado -> -2.0034524234005686 media y -> -2.0034524234005686
+xsensor -> 6.458419248172135 xcalculado -> 6.458419248172135 media x -> 6.458419248172135
+ysensor -> 0.0 ycalculado -> -1.9882906763964536 media y -> -1.9882906763964536
+xsensor -> 6.554728031893091 xcalculado -> 6.554728031893091 media x -> 6.554728031893091
+ysensor -> 0.0 ycalculado -> -1.9678196124701055 media y -> -1.9678196124701055
+xsensor -> 6.651010660798938 xcalculado -> 6.651010660798938 media x -> 6.651010660798938
+ysensor -> 0.0 ycalculado -> -1.9438136568965194 media y -> -1.9438136568965194
+xsensor -> 6.748448926784212 xcalculado -> 6.748448926784212 media x -> 6.748448926784212
+ysensor -> 0.0 ycalculado -> -1.9231025141036004 media y -> -1.9231025141036004
+xsensor -> 6.847027677659528 xcalculado -> 6.847027677659528 media x -> 6.847027677659528
+ysensor -> 0.0 ycalculado -> -1.9074891738183215 media y -> -1.9074891738183215
+xsensor -> 6.945413688556928 xcalculado -> 6.945413688556928 media x -> 6.945413688556928
+ysensor -> 0.0 ycalculado -> -1.8901410655728328 media y -> -1.8901410655728328
+xsensor -> 7.045350352251683 xcalculado -> 7.045350352251683 media x -> 7.045350352251683
+ysensor -> 0.0 ycalculado -> -1.8883966646193313 media y -> -1.8883966646193313
+xsensor -> 7.14531106885688 xcalculado -> 7.14531106885688 media x -> 7.14531106885688
+ysensor -> 0.0 ycalculado -> -1.8901414854179461 media y -> -1.8901414854179461
+xsensor -> 7.194539610957012 xcalculado -> 7.194539610957012 media x -> 7.194539610957012
+ysensor -> 0.0 ycalculado -> -1.898821805611142 media y -> -1.898821805611142
+xsensor -> 7.265010906069599 xcalculado -> 7.265010906069599 media x -> 7.265010906069599
+ysensor -> 0.0 ycalculado -> -1.9244712594023132 media y -> -1.9244712594023132
+xsensor -> 7.301230219947129 xcalculado -> 7.301230219947129 media x -> 7.301230219947129
+ysensor -> 0.0 ycalculado -> -1.9341761953062067 media y -> -1.9341761953062067
+xsensor -> 7.366613925494807 xcalculado -> 7.366613925494807 media x -> 7.366613925494807
+ysensor -> 0.0 ycalculado -> -1.95542064905134 media y -> -1.95542064905134
+xsensor -> 7.450525962766819 xcalculado -> 7.450525962766819 media x -> 7.450525962766819
+ysensor -> 0.0 ycalculado -> -1.9642401595583998 media y -> -1.9642401595583998
+xsensor -> 7.541815928128035 xcalculado -> 7.541815928128035 media x -> 7.541815928128035
+ysensor -> 0.0 ycalculado -> -1.9770701274902176 media y -> -1.9770701274902176
+xsensor -> 7.637193223346221 xcalculado -> 7.637193223346221 media x -> 7.637193223346221
+ysensor -> 0.0 ycalculado -> -1.9887809868036894 media y -> -1.9887809868036894
+xsensor -> 7.733750453461477 xcalculado -> 7.733750453461477 media x -> 7.733750453461477
+ysensor -> 0.0 ycalculado -> -2.005806631655485 media y -> -2.005806631655485
+xsensor -> 7.831269456169715 xcalculado -> 7.831269456169715 media x -> 7.831269456169715
+ysensor -> 0.0 ycalculado -> -2.0230018629647293 media y -> -2.0230018629647293
+xsensor -> 8.333333333333334 xcalculado -> 7.929269345174444 media x -> 7.929269345174444
+ysensor -> 0.0 ycalculado -> -2.040281887502698 media y -> -2.040281887502698
+Estou no meio
+
+ Measures: ir0=1.7 ir1=0.4 ir2=2.5 ir3=0.3
+bussola=-10.0 X=7.929269345174444 Y=-2.040281887502698
+f: true esq: false dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 8.0 y= 0.0 compass_goal= 90.0 compass= 0.0
+xsensor -> 8.444444444444445 xcalculado -> 7.9775472314857385 media x -> 7.9775472314857385
+ysensor -> 0.0 ycalculado -> -2.0523189164781828 media y -> -2.0523189164781828
+xsensor -> 8.523809523809524 xcalculado -> 8.001686174641385 media x -> 8.001686174641385
+ysensor -> 0.0 ycalculado -> -2.0583374309659255 media y -> -2.0583374309659255
+xsensor -> 8.565217391304348 xcalculado -> 8.01410808938356 media x -> 8.01410808938356
+ysensor -> 0.0 ycalculado -> -2.0589884359320063 media y -> -2.0589884359320063
+xsensor -> 8.444444444444445 xcalculado -> 8.020267042776036 media x -> 8.020267042776036
+ysensor -> 0.0 ycalculado -> -2.058122851481335 media y -> -2.058122851481335
+xsensor -> 8.46078431372549 xcalculado -> 8.023085424785814 media x -> 8.023085424785814
+ysensor -> 0.0 ycalculado -> -2.0568086183665693 media y -> -2.0568086183665693
+xsensor -> 8.024276524491706 xcalculado -> 8.024276524491706 media x -> 8.024276524491706
+ysensor -> -2.0558091670426593 ycalculado -> -2.0558091670426593 media y -> -2.0558091670426593
+xsensor -> 8.024699946004812 xcalculado -> 8.024699946004812 media x -> 8.024699946004812
+ysensor -> -2.055157155089702 ycalculado -> -2.055157155089702 media y -> -2.055157155089702
+xsensor -> 8.03858895887595 xcalculado -> 8.03858895887595 media x -> 8.03858895887595
+ysensor -> -2.006720410992205 ycalculado -> -2.006720410992205 media y -> -2.006720410992205
+xsensor -> 8.037276636364734 xcalculado -> 8.037276636364734 media x -> 8.037276636364734
+ysensor -> -1.93153750467746 ycalculado -> -1.93153750467746 media y -> -1.93153750467746
+xsensor -> 8.030747954678262 xcalculado -> 8.030747954678262 media x -> 8.030747954678262
+ysensor -> -1.894511510922896 ycalculado -> -1.894511510922896 media y -> -1.894511510922896
+xsensor -> 8.01063319372663 xcalculado -> 8.01063319372663 media x -> 8.01063319372663
+ysensor -> -1.828719092394066 ycalculado -> -1.828719092394066 media y -> -1.828719092394066
+xsensor -> 7.994529049066294 xcalculado -> 7.994529049066294 media x -> 7.994529049066294
+ysensor -> -1.74587045030797 ycalculado -> -1.74587045030797 media y -> -1.74587045030797
+xsensor -> 7.978518748309629 xcalculado -> 7.978518748309629 media x -> 7.978518748309629
+ysensor -> -1.6550715227000814 ycalculado -> -1.6550715227000814 media y -> -1.6550715227000814
+xsensor -> 7.96183118904795 xcalculado -> 7.96183118904795 media x -> 7.96183118904795
+ysensor -> -1.5604316712455266 ycalculado -> -1.5604316712455266 media y -> -1.5604316712455266
+xsensor -> 7.948185278766099 xcalculado -> 7.948185278766099 media x -> 7.948185278766099
+ysensor -> -1.4633359743916694 ycalculado -> -1.4633359743916694 media y -> -1.4633359743916694
+xsensor -> 7.936117172406433 xcalculado -> 7.936117172406433 media x -> 7.936117172406433
+ysensor -> -1.365049135468914 ycalculado -> -1.365049135468914 media y -> -1.365049135468914
+xsensor -> 7.923989652056344 xcalculado -> 7.923989652056344 media x -> 7.923989652056344
+ysensor -> -1.2662784084254703 ycalculado -> -1.2662784084254703 media y -> -1.2662784084254703
+xsensor -> 7.915295322954155 xcalculado -> 7.915295322954155 media x -> 7.915295322954155
+ysensor -> -1.166901772050037 ycalculado -> -1.166901772050037 media y -> -1.166901772050037
+xsensor -> 7.917038436489704 xcalculado -> 7.917038436489704 media x -> 7.917038436489704
+ysensor -> -1.06703886448041 ycalculado -> -1.06703886448041 media y -> -1.06703886448041
+xsensor -> 7.927484912825315 xcalculado -> 7.927484912825315 media x -> 7.927484912825315
+ysensor -> -0.9676472813609943 ycalculado -> -0.9676472813609943 media y -> -0.9676472813609943
+xsensor -> 7.938725611255257 xcalculado -> 7.938725611255257 media x -> 7.938725611255257
+ysensor -> -0.9189584673015964 ycalculado -> -0.9189584673015964 media y -> -0.9189584673015964
+xsensor -> 7.964371911306038 xcalculado -> 7.964371911306038 media x -> 7.964371911306038
+ysensor -> -0.8484958370195195 ycalculado -> -0.8484958370195195 media y -> -0.8484958370195195
+xsensor -> 7.985538234323273 xcalculado -> 7.985538234323273 media x -> 7.985538234323273
+ysensor -> -0.7636023522289326 ycalculado -> -0.7636023522289326 media y -> -0.7636023522289326
+xsensor -> 7.99537898616491 xcalculado -> 7.99537898616491 media x -> 7.99537898616491
+ysensor -> -0.7209773730420616 ycalculado -> -0.7209773730420616 media y -> -0.7209773730420616
+xsensor -> 8.016392645654166 xcalculado -> 8.016392645654166 media x -> 8.016392645654166
+ysensor -> -0.6522447898776937 ycalculado -> -0.6522447898776937 media y -> -0.6522447898776937
+xsensor -> 8.029836083537997 xcalculado -> 8.029836083537997 media x -> 8.029836083537997
+ysensor -> -0.5673662635762184 ycalculado -> -0.5673662635762184 media y -> -0.5673662635762184
+xsensor -> 8.04116606603622 xcalculado -> 8.04116606603622 media x -> 8.04116606603622
+ysensor -> -0.4750909610878071 ycalculado -> -0.4750909610878071 media y -> -0.4750909610878071
+xsensor -> 8.04957521265565 xcalculado -> 8.04957521265565 media x -> 8.04957521265565
+ysensor -> -0.3789739754061364 ycalculado -> -0.3789739754061364 media y -> -0.3789739754061364
+xsensor -> 8.04957521265565 xcalculado -> 8.04957521265565 media x -> 8.04957521265565
+ysensor -> -0.280731906930071 ycalculado -> -0.280731906930071 media y -> -0.280731906930071
+xsensor -> 8.040936245294718 xcalculado -> 8.040936245294718 media x -> 8.040936245294718
+ysensor -> 0.375 ycalculado -> -0.18198805815277241 media y -> -0.18198805815277241
+xsensor -> 8.028802870444347 xcalculado -> 8.028802870444347 media x -> 8.028802870444347
+ysensor -> 0.4117647058823529 ycalculado -> -0.08316965003087273 media y -> -0.08316965003087273
+Estou no meio
+
+ Measures: ir0=2.1 ir1=2.7 ir2=0.9 ir3=0.7
+bussola=108.0 X=8.028802870444347 Y=-0.08316965003087273
+f: true esq: true dir: false tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 10.0 y= 0.0 compass_goal= 0.0 compass= 90.0
+xsensor -> 8.0201586192617 xcalculado -> 8.0201586192617 media x -> 8.0201586192617
+ysensor -> 0.5652173913043478 ycalculado -> -0.03414566545451674 media y -> -0.03414566545451674
+xsensor -> 8.013716579769035 xcalculado -> 8.013716579769035 media x -> 8.013716579769035
+ysensor -> 0.6296296296296297 ycalculado -> -0.01010364676352854 media y -> -0.01010364676352854
+xsensor -> 8.010917049356918 xcalculado -> 8.010917049356918 media x -> 8.010917049356918
+ysensor -> 0.6428571428571428 ycalculado -> 0.002022451675884898 media y -> 0.002022451675884898
+xsensor -> 8.011025647520034 xcalculado -> 8.011025647520034 media x -> 8.011025647520034
+ysensor -> 0.6153846153846154 ycalculado -> 0.008244036274011582 media y -> 0.008244036274011582
+xsensor -> 8.011883228697611 xcalculado -> 8.011883228697611 media x -> 8.011883228697611
+ysensor -> 0.5505050505050505 ycalculado -> 0.011234777259459136 media y -> 0.011234777259459136
+xsensor -> 8.433155080213904 xcalculado -> 8.012753127676342 media x -> 8.012753127676342
+ysensor -> 0.0 ycalculado -> 0.012524455531875917 media y -> 0.012524455531875917
+xsensor -> 8.357142857142858 xcalculado -> 8.013340153270729 media x -> 8.013340153270729
+ysensor -> 0.0 ycalculado -> 0.013034749095834866 media y -> 0.013034749095834866
+xsensor -> 8.333333333333334 xcalculado -> 8.05972338789343 media x -> 8.05972338789343
+ysensor -> 0.0 ycalculado -> 0.03272326408751255 media y -> 0.03272326408751255
+xsensor -> 8.384615384615385 xcalculado -> 8.134872035598654 media x -> 8.134872035598654
+ysensor -> 0.0 ycalculado -> 0.03534751269164325 media y -> 0.03534751269164325
+xsensor -> 8.5 xcalculado -> 8.222415900802222 media x -> 8.222415900802222
+ysensor -> 0.0 ycalculado -> 0.03229041355445285 media y -> 0.03229041355445285
+xsensor -> 8.526315789473685 xcalculado -> 8.315301672676926 media x -> 8.315301672676926
+ysensor -> 0.0 ycalculado -> 0.019236169643206198 media y -> 0.019236169643206198
+xsensor -> 8.666666666666666 xcalculado -> 8.360998953249748 media x -> 8.360998953249748
+ysensor -> 0.0 ycalculado -> 0.008686121138001395 media y -> 0.008686121138001395
+xsensor -> 8.430853724719686 xcalculado -> 8.430853724719686 media x -> 8.430853724719686
+ysensor -> 0.0 ycalculado -> -0.014011069988430097 media y -> -0.014011069988430097
+xsensor -> 8.515355799721783 xcalculado -> 8.515355799721783 media x -> 8.515355799721783
+ysensor -> 0.0 ycalculado -> -0.033519911190521175 media y -> -0.033519911190521175
+xsensor -> 8.608022303796163 xcalculado -> 8.608022303796163 media x -> 8.608022303796163
+ysensor -> 0.0 ycalculado -> -0.044897927203701025 media y -> -0.044897927203701025
+xsensor -> 8.704571012235462 xcalculado -> 8.704571012235462 media x -> 8.704571012235462
+ysensor -> 0.0 ycalculado -> -0.04995783060565048 media y -> -0.04995783060565048
+xsensor -> 8.80277684319284 xcalculado -> 8.80277684319284 media x -> 8.80277684319284
+ysensor -> 0.0 ycalculado -> -0.0551045801187724 media y -> -0.0551045801187724
+xsensor -> 8.901947144861072 xcalculado -> 8.901947144861072 media x -> 8.901947144861072
+ysensor -> 0.0 ycalculado -> -0.0551045801187724 media y -> -0.0551045801187724
+xsensor -> 9.001471631112 xcalculado -> 9.001471631112 media x -> 9.001471631112
+ysensor -> 0.0 ycalculado -> -0.0516291084756191 media y -> -0.0516291084756191
+xsensor -> 9.100717532359454 xcalculado -> 9.100717532359454 media x -> 9.100717532359454
+ysensor -> 0.0 ycalculado -> -0.041197943921752606 media y -> -0.041197943921752606
+xsensor -> 9.150241900705742 xcalculado -> 9.150241900705742 media x -> 9.150241900705742
+ysensor -> 0.0 ycalculado -> -0.03511711610035985 media y -> -0.03511711610035985
+xsensor -> 9.221915167124177 xcalculado -> 9.221915167124177 media x -> 9.221915167124177
+ysensor -> 0.0 ycalculado -> -0.013204399515883626 media y -> -0.013204399515883626
+xsensor -> 9.309056373798482 xcalculado -> 9.309056373798482 media x -> 9.309056373798482
+ysensor -> 0.0 ycalculado -> -0.0055805318059123366 media y -> -0.0055805318059123366
+xsensor -> 9.40266494641205 xcalculado -> 9.40266494641205 media x -> 9.40266494641205
+ysensor -> 0.0 ycalculado -> -6.74714393379885E-4 media y -> -6.74714393379885E-4
+xsensor -> 9.499164850437507 xcalculado -> 9.499164850437507 media x -> 9.499164850437507
+ysensor -> 0.0 ycalculado -> 0.007767933240187299 media y -> 0.007767933240187299
+xsensor -> 9.597224537354823 xcalculado -> 9.597224537354823 media x -> 9.597224537354823
+ysensor -> 0.0 ycalculado -> 0.016347044194353802 media y -> 0.016347044194353802
+xsensor -> 9.695702117412425 xcalculado -> 9.695702117412425 media x -> 9.695702117412425
+ysensor -> 0.0 ycalculado -> 0.028438570620507267 media y -> 0.028438570620507267
+xsensor -> 9.794931641498636 xcalculado -> 9.794931641498636 media x -> 9.794931641498636
+ysensor -> 0.0 ycalculado -> 0.03712002906512325 media y -> 0.03712002906512325
+xsensor -> 9.894189185570959 xcalculado -> 9.894189185570959 media x -> 9.894189185570959
+ysensor -> 0.0 ycalculado -> 0.04755241732919394 media y -> 0.04755241732919394
+Estou no meio
+
+ Measures: ir0=0.6 ir1=3.1 ir2=2.2 ir3=0.4
+bussola=2.0 X=9.894189185570959 Y=0.04755241732919394
+f: false esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 12.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+xsensor -> 9.993346671346774 xcalculado -> 9.993346671346774 media x -> 9.993346671346774
+ysensor -> 0.0 ycalculado -> 0.05972742568041353 media y -> 0.05972742568041353
+xsensor -> 10.092750199517475 xcalculado -> 10.092750199517475 media x -> 10.092750199517475
+ysensor -> 0.0 ycalculado -> 0.07017515749150521 media y -> 0.07017515749150521
+xsensor -> 10.191980532334528 xcalculado -> 10.191980532334528 media x -> 10.191980532334528
+ysensor -> 0.0 ycalculado -> 0.057991204648314254 media y -> 0.057991204648314254
+xsensor -> 10.29158781633986 xcalculado -> 10.29158781633986 media x -> 10.29158781633986
+ysensor -> 0.0 ycalculado -> 0.04927669649324062 media y -> 0.04927669649324062
+xsensor -> 10.389018863399755 xcalculado -> 10.389018863399755 media x -> 10.389018863399755
+ysensor -> 0.0 ycalculado -> 0.026782966899052664 media y -> 0.026782966899052664
+xsensor -> 10.437530682463928 xcalculado -> 10.437530682463928 media x -> 10.437530682463928
+ysensor -> 0.0 ycalculado -> 0.014687611937492991 media y -> 0.014687611937492991
+xsensor -> 10.50656713898048 xcalculado -> 10.50656713898048 media x -> 10.50656713898048
+ysensor -> 0.0 ycalculado -> -0.014616625254132735 media y -> -0.014616625254132735
+xsensor -> 10.59108491030925 xcalculado -> 10.59108491030925 media x -> 10.59108491030925
+ysensor -> 0.0 ycalculado -> -0.03726309382775519 media y -> -0.03726309382775519
+xsensor -> 10.682049763741421 xcalculado -> 10.682049763741421 media x -> 10.682049763741421
+ysensor -> 0.0 ycalculado -> -0.059943179062921056 media y -> -0.059943179062921056
+xsensor -> 10.77644167753566 xcalculado -> 10.77644167753566 media x -> 10.77644167753566
+ysensor -> 0.0 ycalculado -> -0.08173526945747676 media y -> -0.08173526945747676
+xsensor -> 10.871955070364402 xcalculado -> 10.871955070364402 media x -> 10.871955070364402
+ysensor -> 0.0 ycalculado -> -0.10554943293624332 media y -> -0.10554943293624332
+xsensor -> 10.970434211421106 xcalculado -> 10.970434211421106 media x -> 10.970434211421106
+ysensor -> 0.0 ycalculado -> -0.11764115102898583 media y -> -0.11764115102898583
+xsensor -> 11.069982883204453 xcalculado -> 11.069982883204453 media x -> 11.069982883204453
+ysensor -> 0.0 ycalculado -> -0.1141648348084299 media y -> -0.1141648348084299
+xsensor -> 11.169240818303376 xcalculado -> 11.169240818303376 media x -> 11.169240818303376
+ysensor -> 0.0 ycalculado -> -0.10373240544580757 media y -> -0.10373240544580757
+xsensor -> 11.218226309583034 xcalculado -> 11.218226309583034 media x -> 11.218226309583034
+ysensor -> 0.0 ycalculado -> -0.09421059050760432 media y -> -0.09421059050760432
+xsensor -> 11.241520232475645 xcalculado -> 11.241520232475645 media x -> 11.241520232475645
+ysensor -> 0.0 ycalculado -> -0.08526889127424313 media y -> -0.08526889127424313
+xsensor -> 11.301265931011294 xcalculado -> 11.301265931011294 media x -> 11.301265931011294
+ysensor -> 0.0 ycalculado -> -0.06700279814671582 media y -> -0.06700279814671582
+xsensor -> 11.381898189049222 xcalculado -> 11.381898189049222 media x -> 11.381898189049222
+ysensor -> 0.0 ycalculado -> -0.05710240174891902 media y -> -0.05710240174891902
+xsensor -> 11.472503283463496 xcalculado -> 11.472503283463496 media x -> 11.472503283463496
+ysensor -> 0.0 ycalculado -> -0.0555208839430906 media y -> -0.0555208839430906
+xsensor -> 11.567450050294472 xcalculado -> 11.567450050294472 media x -> 11.567450050294472
+ysensor -> 0.0 ycalculado -> -0.04721411820694096 media y -> -0.04721411820694096
+xsensor -> 11.664154405260941 xcalculado -> 11.664154405260941 media x -> 11.664154405260941
+ysensor -> 0.0 ycalculado -> -0.03362320744059703 media y -> -0.03362320744059703
+xsensor -> 11.711531385948344 xcalculado -> 11.711531385948344 media x -> 11.711531385948344
+ysensor -> 0.0 ycalculado -> -0.021810799465067022 media y -> -0.021810799465067022
+xsensor -> 11.782693543004 xcalculado -> 11.782693543004 media x -> 11.782693543004
+ysensor -> 0.0 ycalculado -> -5.434469437344547E-5 media y -> -5.434469437344547E-5
+xsensor -> 11.868575515647516 xcalculado -> 11.868575515647516 media x -> 11.868575515647516
+ysensor -> 0.0 ycalculado -> 0.015088964239144942 media y -> 0.015088964239144942
+Estou no meio
+
+ Measures: ir0=1.3 ir1=2.8 ir2=2.3 ir3=0.7
+bussola=6.0 X=11.868575515647516 Y=0.015088964239144942
+f: false esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 14.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+xsensor -> 12.333333333333334 xcalculado -> 11.961666166569225 media x -> 11.961666166569225
+ysensor -> 0.0 ycalculado -> 0.024873185914655208 media y -> 0.024873185914655208
+xsensor -> 12.375 xcalculado -> 12.058335213315667 media x -> 12.058335213315667
+ysensor -> 0.0 ycalculado -> 0.029939395980044758 media y -> 0.029939395980044758
+xsensor -> 12.523809523809524 xcalculado -> 12.156676125236398 media x -> 12.156676125236398
+ysensor -> 0.0 ycalculado -> 0.0333735362968369 media y -> 0.0333735362968369
+xsensor -> 12.6 xcalculado -> 12.255861444062264 media x -> 12.255861444062264
+ysensor -> 0.0 ycalculado -> 0.03510482247686835 media y -> 0.03510482247686835
+xsensor -> 12.714285714285714 xcalculado -> 12.35540098406888 media x -> 12.35540098406888
+ysensor -> 0.0 ycalculado -> 0.038580819808753955 media y -> 0.038580819808753955
+xsensor -> 12.803921568627452 xcalculado -> 12.455140295423142 media x -> 12.455140295423142
+ysensor -> 0.0 ycalculado -> 0.0350978463076861 media y -> 0.0350978463076861
+xsensor -> 12.895833333333334 xcalculado -> 12.554903439313318 media x -> 12.554903439313318
+ysensor -> 0.0 ycalculado -> 0.029869481482107493 media y -> 0.029869481482107493
+xsensor -> 12.891304347826088 xcalculado -> 12.653622915347542 media x -> 12.653622915347542
+ysensor -> 0.0 ycalculado -> 0.014233852521295397 media y -> 0.014233852521295397
+xsensor -> 12.885057471264368 xcalculado -> 12.751761106127613 media x -> 12.751761106127613
+ysensor -> 0.0 ycalculado -> -0.004842279340751224 media y -> -0.004842279340751224
+xsensor -> 12.879518072289157 xcalculado -> 12.800467436250033 media x -> 12.800467436250033
+ysensor -> 0.0 ycalculado -> -0.01608702167247857 media y -> -0.01608702167247857
+xsensor -> 12.94475138121547 xcalculado -> 12.8704801364779 media x -> 12.8704801364779
+ysensor -> 0.0 ycalculado -> -0.042962379285672536 media y -> -0.042962379285672536
+xsensor -> 12.950248756218905 xcalculado -> 12.956064996464406 media x -> 12.956064996464406
+ysensor -> 0.0 ycalculado -> -0.06115400285541453 media y -> -0.06115400285541453
+xsensor -> 14.952153110047847 xcalculado -> 13.048901081441967 media x -> 13.048901081441967
+ysensor -> 0.0 ycalculado -> -0.07420126372866308 media y -> -0.07420126372866308
+xsensor -> 14.950980392156863 xcalculado -> 13.145539319880466 media x -> 13.145539319880466
+ysensor -> 0.0 ycalculado -> -0.08095886765450422 media y -> -0.08095886765450422
+xsensor -> 14.94475138121547 xcalculado -> 13.243841524826678 media x -> 13.243841524826678
+ysensor -> 0.0 ycalculado -> -0.07580706739464692 media y -> -0.07580706739464692
+xsensor -> 14.931972789115646 xcalculado -> 13.292790455225584 media x -> 13.292790455225584
+ysensor -> 0.0 ycalculado -> -0.07066232749799714 media y -> -0.07066232749799714
+xsensor -> 14.99 xcalculado -> 13.364857483143085 media x -> 13.364857483143085
+ysensor -> 0.0 ycalculado -> -0.051352025566591145 media y -> -0.051352025566591145
+xsensor -> 14.99 xcalculado -> 13.451087256864941 media x -> 13.451087256864941
+ysensor -> 0.0 ycalculado -> -0.037694571116343646 media y -> -0.037694571116343646
+xsensor -> 14.985935302390999 xcalculado -> 13.543586560755626 media x -> 13.543586560755626
+ysensor -> 0.0 ycalculado -> -0.02304412063920835 media y -> -0.02304412063920835
+xsensor -> 14.979674796747968 xcalculado -> 13.589552391988569 media x -> 13.589552391988569
+ysensor -> 0.0 ycalculado -> -0.014109268154376752 media y -> -0.014109268154376752
+xsensor -> 14.98997995991984 xcalculado -> 13.659372379949078 media x -> 13.659372379949078
+ysensor -> 0.0 ycalculado -> 0.008576621124737158 media y -> 0.008576621124737158
+xsensor -> 14.98997995991984 xcalculado -> 13.745432622467442 media x -> 13.745432622467442
+ysensor -> 0.0 ycalculado -> 0.019143490213551977 media y -> 0.019143490213551977
+xsensor -> 14.99 xcalculado -> 13.838558488553051 media x -> 13.838558488553051
+ysensor -> 0.0 ycalculado -> 0.02565548513839694 media y -> 0.02565548513839694
+xsensor -> 14.99 xcalculado -> 13.935102631564423 media x -> 13.935102631564423
+ysensor -> 0.0 ycalculado -> 0.03071514927640726 media y -> 0.03071514927640726
+Estou no meio
+
+ Measures: ir0=99.9 ir1=2.9 ir2=2.3 ir3=0.4
+bussola=2.0 X=13.935102631564423 Y=0.03071514927640726
+f: true esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+caminho: x-> 14.0 y-> 0.0
+caminho: x-> 12.0 y-> 0.0
+caminho: x-> 10.0 y-> 0.0
+caminho: x-> 8.0 y-> 0.0
+caminho: x-> 8.0 y-> -2.0
+caminho: x-> 6.0 y-> -2.0
+caminho: x-> 6.0 y-> -4.0
+Mapping decode next x= 14.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+Mapping decode next x= 14.0 y= 0.0 compass_goal= 0.0 compass= 0.0
+Estou no meio
+
+ Measures: ir0=100.0 ir1=2.9 ir2=2.3 ir3=0.4
+bussola=2.0 X=13.935102631564423 Y=0.03071514927640726
+f: true esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 12.0 y= 0.0 compass_goal= 180.0 compass= 0.0
+xsensor -> 14.98998998998999 xcalculado -> 13.983323199342319 media x -> 13.983323199342319
+ysensor -> 0.0 ycalculado -> 0.034087059851221485 media y -> 0.034087059851221485
+xsensor -> 14.988290398126464 xcalculado -> 14.007488677007288 media x -> 14.007488677007288
+ysensor -> 0.0 ycalculado -> 0.03366524986955807 media y -> 0.03366524986955807
+xsensor -> 14.954128440366972 xcalculado -> 14.019351228619822 media x -> 14.019351228619822
+ysensor -> 0.0 ycalculado -> 0.03135940341995171 media y -> 0.03135940341995171
+xsensor -> 14.70633971291866 xcalculado -> 14.024953542061509 media x -> 14.024953542061509
+ysensor -> 0.0 ycalculado -> 0.029095921864161826 media y -> 0.029095921864161826
+xsensor -> 14.027267873280431 xcalculado -> 14.027267873280431 media x -> 14.027267873280431
+ysensor -> -0.3946784922394678 ycalculado -> 0.02715396739194212 media y -> 0.02715396739194212
+xsensor -> 14.028176958457282 xcalculado -> 14.028176958457282 media x -> 14.028176958457282
+ysensor -> -0.5 ycalculado -> 0.025947570615590033 media y -> 0.025947570615590033
+xsensor -> 14.028447628827957 xcalculado -> 14.028447628827957 media x -> 14.028447628827957
+ysensor -> -0.5714285714285715 ycalculado -> 0.0252424501928065 media y -> 0.0252424501928065
+xsensor -> 14.028447628827957 xcalculado -> 14.028447628827957 media x -> 14.028447628827957
+ysensor -> -0.5457875457875458 ycalculado -> 0.024864807087418596 media y -> 0.024864807087418596
+xsensor -> 14.028405153220595 xcalculado -> 14.028405153220595 media x -> 14.028405153220595
+ysensor -> -0.638157894736842 ycalculado -> 0.02468082501888734 media y -> 0.02468082501888734
+xsensor -> 13.223484848484848 xcalculado -> 14.028352359384451 media x -> 14.028352359384451
+ysensor -> 0.0 ycalculado -> 0.024602554938041605 media y -> 0.024602554938041605
+xsensor -> 14.038167938931299 xcalculado -> 14.028316197959155 media x -> 14.028316197959155
+ysensor -> 0.0 ycalculado -> 0.024572211899412673 media y -> 0.024572211899412673
+xsensor -> 13.00999000999001 xcalculado -> 13.981017952393495 media x -> 13.981017952393495
+ysensor -> 0.0 ycalculado -> 0.00828611989100072 media y -> 0.00828611989100072
+xsensor -> 13.052083333333334 xcalculado -> 13.906565277638803 media x -> 13.906565277638803
+ysensor -> 0.0 ycalculado -> -8.555190868008676E-4 media y -> -8.555190868008676E-4
+xsensor -> 13.12987012987013 xcalculado -> 13.819179300760924 media x -> 13.819179300760924
+ysensor -> 0.0 ycalculado -> 0.003724185901847963 media y -> 0.003724185901847963
+xsensor -> 13.227272727272727 xcalculado -> 13.726125170699152 media x -> 13.726125170699152
+ysensor -> 0.0 ycalculado -> 0.015149796401684432 media y -> 0.015149796401684432
+xsensor -> 13.3125 xcalculado -> 13.63019149072767 media x -> 13.63019149072767
+ysensor -> 0.0 ycalculado -> 0.028632395860948717 media y -> 0.028632395860948717
+xsensor -> 13.434782608695652 xcalculado -> 13.532292508108728 media x -> 13.532292508108728
+ysensor -> 0.0 ycalculado -> 0.038921993562400316 media y -> 0.038921993562400316
+xsensor -> 13.526315789473685 xcalculado -> 13.434580750675234 media x -> 13.434580750675234
+ysensor -> 0.0 ycalculado -> 0.056151212730366315 media y -> 0.056151212730366315
+xsensor -> 13.625 xcalculado -> 13.33619755024794 media x -> 13.33619755024794
+ysensor -> 0.0 ycalculado -> 0.07173358086738013 media y -> 0.07173358086738013
+xsensor -> 13.666666666666666 xcalculado -> 13.236772557868553 media x -> 13.236772557868553
+ysensor -> 0.0 ycalculado -> 0.08043214057172779 media y -> 0.08043214057172779
+xsensor -> 13.137007080772765 xcalculado -> 13.137007080772765 media x -> 13.137007080772765
+ysensor -> 0.0 ycalculado -> 0.08566062767543119 media y -> 0.08566062767543119
+xsensor -> 13.03707110889937 xcalculado -> 13.03707110889937 media x -> 13.03707110889937
+ysensor -> 0.0 ycalculado -> 0.08391623879771656 media y -> 0.08391623879771656
+xsensor -> 12.938932344749002 xcalculado -> 12.938932344749002 media x -> 12.938932344749002
+ysensor -> 0.0 ycalculado -> 0.06483999548377421 media y -> 0.06483999548377421
+xsensor -> 12.890036899354186 xcalculado -> 12.890036899354186 media x -> 12.890036899354186
+ysensor -> 0.0 ycalculado -> 0.054446947729327885 media y -> 0.054446947729327885
+xsensor -> 12.820024062799796 xcalculado -> 12.820024062799796 media x -> 12.820024062799796
+ysensor -> 0.0 ycalculado -> 0.027571537785284404 media y -> 0.027571537785284404
+xsensor -> 12.735508499379682 xcalculado -> 12.735508499379682 media x -> 12.735508499379682
+ysensor -> 0.0 ycalculado -> 0.004925660819003554 media y -> 0.004925660819003554
+xsensor -> 12.692881295114221 xcalculado -> 12.692881295114221 media x -> 12.692881295114221
+ysensor -> 0.0 ycalculado -> -0.004915604722503311 media y -> -0.004915604722503311
+xsensor -> 12.62379134375693 xcalculado -> 12.62379134375693 media x -> 12.62379134375693
+ysensor -> 0.0 ycalculado -> -0.024726829476506985 media y -> -0.024726829476506985
+xsensor -> 12.538690559178418 xcalculado -> 12.538690559178418 media x -> 12.538690559178418
+ysensor -> 0.0 ycalculado -> -0.036686964774999324 media y -> -0.036686964774999324
+xsensor -> 12.445736159385138 xcalculado -> 12.445736159385138 media x -> 12.445736159385138
+ysensor -> 0.0 ycalculado -> -0.03830948985875453 media y -> -0.03830948985875453
+xsensor -> 12.349310655323812 xcalculado -> 12.349310655323812 media x -> 12.349310655323812
+ysensor -> 0.0 ycalculado -> -0.04167674265920567 media y -> -0.04167674265920567
+xsensor -> 12.251307828400034 xcalculado -> 12.251307828400034 media x -> 12.251307828400034
+ysensor -> 0.0 ycalculado -> -0.03482371741097417 media y -> -0.03482371741097417
+xsensor -> 12.153151397919354 xcalculado -> 12.153151397919354 media x -> 12.153151397919354
+ysensor -> 0.0 ycalculado -> -0.021028730739812273 media y -> -0.021028730739812273
+xsensor -> 12.055103411196999 xcalculado -> 12.055103411196999 media x -> 12.055103411196999
+ysensor -> 0.0 ycalculado -> -0.003740225276515949 media y -> -0.003740225276515949
+Estou no meio
+
+ Measures: ir0=1.0 ir1=2.0 ir2=2.6 ir3=0.9
+bussola=161.0 X=12.055103411196999 Y=-0.003740225276515949
+f: false esq: true dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 10.0 y= 0.0 compass_goal= 180.0 compass= 180.0
+xsensor -> 12.006599008747632 xcalculado -> 12.006599008747632 media x -> 12.006599008747632
+ysensor -> 0.0 ycalculado -> 0.007457898378595781 media y -> 0.007457898378595781
+xsensor -> 11.934609991779745 xcalculado -> 11.934609991779745 media x -> 11.934609991779745
+ysensor -> 0.0 ycalculado -> 0.028100416819450035 media y -> 0.028100416819450035
+xsensor -> 11.848493411963535 xcalculado -> 11.848493411963535 media x -> 11.848493411963535
+ysensor -> 0.0 ycalculado -> 0.043285093327381834 media y -> 0.043285093327381834
+xsensor -> 11.755284300373061 xcalculado -> 11.755284300373061 media x -> 11.755284300373061
+ysensor -> 0.0 ycalculado -> 0.053081765720891703 media y -> 0.053081765720891703
+xsensor -> 11.65843778609565 xcalculado -> 11.65843778609565 media x -> 11.65843778609565
+ysensor -> 0.0 ycalculado -> 0.054772227915675466 media y -> 0.054772227915675466
+xsensor -> 11.560022144199126 xcalculado -> 11.560022144199126 media x -> 11.560022144199126
+ysensor -> 0.0 ycalculado -> 0.05305437649641941 media y -> 0.05305437649641941
+xsensor -> 11.46104851104464 xcalculado -> 11.46104851104464 media x -> 11.46104851104464
+ysensor -> 0.0 ycalculado -> 0.046133465863459656 media y -> 0.046133465863459656
+xsensor -> 11.362954116852325 xcalculado -> 11.362954116852325 media x -> 11.362954116852325
+ysensor -> 0.0 ycalculado -> 0.028836777511102918 media y -> 0.028836777511102918
+xsensor -> 11.314847312009086 xcalculado -> 11.314847312009086 media x -> 11.314847312009086
+ysensor -> 0.0 ycalculado -> 0.015946598002915 media y -> 0.015946598002915
+xsensor -> 11.245399466129806 xcalculado -> 11.245399466129806 media x -> 11.245399466129806
+ysensor -> 0.0 ycalculado -> -0.012112153060072059 media y -> -0.012112153060072059
+xsensor -> 11.159555229233005 xcalculado -> 11.159555229233005 media x -> 11.159555229233005
+ysensor -> 0.0 ycalculado -> -0.028798582365763638 media y -> -0.028798582365763638
+xsensor -> 11.067551751612221 xcalculado -> 11.067551751612221 media x -> 11.067551751612221
+ysensor -> 0.0 ycalculado -> -0.046682246787436675 media y -> -0.046682246787436675
+xsensor -> 10.972468653629447 xcalculado -> 10.972468653629447 media x -> 10.972468653629447
+ysensor -> 0.0 ycalculado -> -0.06516452876710044 media y -> -0.06516452876710044
+xsensor -> 10.875249137465916 xcalculado -> 10.875249137465916 media x -> 10.875249137465916
+ysensor -> 0.0 ycalculado -> -0.08056258742328343 media y -> -0.08056258742328343
+xsensor -> 10.7760485636645 xcalculado -> 10.7760485636645 media x -> 10.7760485636645
+ysensor -> 0.0 ycalculado -> -0.0822941398799036 media y -> -0.0822941398799036
+xsensor -> 10.676455892005972 xcalculado -> 10.676455892005972 media x -> 10.676455892005972
+ysensor -> 0.0 ycalculado -> -0.08055574332972934 media y -> -0.08055574332972934
+xsensor -> 10.577395894092561 xcalculado -> 10.577395894092561 media x -> 10.577395894092561
+ysensor -> 0.0 ycalculado -> -0.0683927049828885 media y -> -0.0683927049828885
+xsensor -> 10.52877291750608 xcalculado -> 10.52877291750608 media x -> 10.52877291750608
+ysensor -> 0.0 ycalculado -> -0.05716720633122702 media y -> -0.05716720633122702
+xsensor -> 10.457490299287226 xcalculado -> 10.457490299287226 media x -> 10.457490299287226
+ysensor -> 0.0 ycalculado -> -0.034006079672870664 media y -> -0.034006079672870664
+xsensor -> 10.371343758388015 xcalculado -> 10.371343758388015 media x -> 10.371343758388015
+ysensor -> 0.0 ycalculado -> -0.018816120217634624 media y -> -0.018816120217634624
+xsensor -> 10.279654407944236 xcalculado -> 10.279654407944236 media x -> 10.279654407944236
+ysensor -> 0.0 ycalculado -> 6.730528544527103E-4 media y -> 6.730528544527103E-4
+xsensor -> 10.186086262196529 xcalculado -> 10.186086262196529 media x -> 10.186086262196529
+ysensor -> 0.0 ycalculado -> 0.02574456194482852 media y -> 0.02574456194482852
+xsensor -> 10.139302189322676 xcalculado -> 10.139302189322676 media x -> 10.139302189322676
+ysensor -> 0.0 ycalculado -> 0.038280316490016425 media y -> 0.038280316490016425
+Estou no meio
+
+ Measures: ir0=1.2 ir1=0.8 ir2=3.3 ir3=0.6
+bussola=174.0 X=10.139302189322676 Y=0.038280316490016425
+f: false esq: false dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 8.0 y= 0.0 compass_goal= 180.0 compass= 180.0
+xsensor -> 10.068717420394622 xcalculado -> 10.068717420394622 media x -> 10.068717420394622
+ysensor -> 0.0 ycalculado -> 0.061214698168789425 media y -> 0.061214698168789425
+xsensor -> 9.981661875538451 xcalculado -> 9.981661875538451 media x -> 9.981661875538451
+ysensor -> 0.0 ycalculado -> 0.06425474478369025 media y -> 0.06425474478369025
+xsensor -> 9.888121819778563 xcalculado -> 9.888121819778563 media x -> 9.888121819778563
+ysensor -> 0.0 ycalculado -> 0.06262199703701232 media y -> 0.06262199703701232
+xsensor -> 9.7913594071408 xcalculado -> 9.7913594071408 media x -> 9.7913594071408
+ysensor -> 0.0 ycalculado -> 0.060933002841809185 media y -> 0.060933002841809185
+xsensor -> 8.411764705882353 xcalculado -> 9.695120857456297 media x -> 9.695120857456297
+ysensor -> 0.0 ycalculado -> 0.04047686762076169 media y -> 0.04047686762076169
+xsensor -> 8.473684210526315 xcalculado -> 9.647602824106766 media x -> 9.647602824106766
+ysensor -> 0.0 ycalculado -> 0.027744448958839762 media y -> 0.027744448958839762
+xsensor -> 8.5 xcalculado -> 9.577069838736575 media x -> 9.577069838736575
+ysensor -> 0.0 ycalculado -> 0.0034579944481271142 media y -> 0.0034579944481271142
+xsensor -> 8.62962962962963 xcalculado -> 9.492364407398798 media x -> 9.492364407398798
+ysensor -> 0.0 ycalculado -> -0.017661441577291093 media y -> -0.017661441577291093
+xsensor -> 8.696969696969697 xcalculado -> 9.400137864473729 media x -> 9.400137864473729
+ysensor -> 0.0 ycalculado -> -0.033923469432448075 media y -> -0.033923469432448075
+xsensor -> 8.791666666666666 xcalculado -> 9.30509216287322 media x -> 9.30509216287322
+ysensor -> 0.0 ycalculado -> -0.05239848229176615 media y -> -0.05239848229176615
+xsensor -> 8.89247311827957 xcalculado -> 9.208174945666038 media x -> 9.208174945666038
+ysensor -> 0.0 ycalculado -> -0.06948760258057517 media y -> -0.06948760258057517
+xsensor -> 8.99000999000999 xcalculado -> 9.109934252451838 media x -> 9.109934252451838
+ysensor -> 0.0 ycalculado -> -0.08329443160664043 media y -> -0.08329443160664043
+xsensor -> 8.98998998998999 xcalculado -> 9.01046767463631 media x -> 9.01046767463631
+ysensor -> 0.0 ycalculado -> -0.08850725406283612 media y -> -0.08850725406283612
+xsensor -> 6.990019960079841 xcalculado -> 8.910909245984438 media x -> 8.910909245984438
+ysensor -> 0.0 ycalculado -> -0.08154545054510531 media y -> -0.08154545054510531
+xsensor -> 6.984399375975039 xcalculado -> 8.811753121081752 media x -> 8.811753121081752
+ysensor -> 0.0 ycalculado -> -0.06937060928809552 media y -> -0.06937060928809552
+xsensor -> 6.969879518072289 xcalculado -> 8.763082961167518 media x -> 8.763082961167518
+ysensor -> 0.0 ycalculado -> -0.05813421750690432 media y -> -0.05813421750690432
+xsensor -> 6.981851179673321 xcalculado -> 8.691012180449105 media x -> 8.691012180449105
+ysensor -> 0.0 ycalculado -> -0.037468253687864606 media y -> -0.037468253687864606
+xsensor -> 6.982046678635547 xcalculado -> 8.60543639807172 media x -> 8.60543639807172
+ysensor -> 0.0 ycalculado -> -0.01927855962350581 media y -> -0.01927855962350581
+xsensor -> 6.9787234042553195 xcalculado -> 8.512846741654759 media x -> 8.512846741654759
+ysensor -> 0.0 ycalculado -> -0.004613798712064153 media y -> -0.004613798712064153
+xsensor -> 6.974747474747475 xcalculado -> 8.467571963820241 media x -> 8.467571963820241
+ysensor -> 0.0 ycalculado -> 0.007517541446193219 media y -> 0.007517541446193219
+xsensor -> 6.989316239316239 xcalculado -> 8.397344816023443 media x -> 8.397344816023443
+ysensor -> 0.0 ycalculado -> 0.028988135199006553 media y -> 0.028988135199006553
+xsensor -> 6.99 xcalculado -> 8.311694483426686 media x -> 8.311694483426686
+ysensor -> 0.0 ycalculado -> 0.0425538151909541 media y -> 0.0425538151909541
+xsensor -> 6.99000999000999 xcalculado -> 8.218463441291064 media x -> 8.218463441291064
+ysensor -> 0.0 ycalculado -> 0.04743984706952571 media y -> 0.04743984706952571
+xsensor -> 6.98998998998999 xcalculado -> 8.121798672354641 media x -> 8.121798672354641
+ysensor -> 0.0 ycalculado -> 0.049127136887582114 media y -> 0.049127136887582114
+Estou no meio
+
+ Measures: ir0=99.9 ir1=0.5 ir2=2.2 ir3=0.5
+bussola=-174.0 X=8.121798672354641 Y=0.049127136887582114
+f: true esq: false dir: true tras: false
+Estou no meio
+init: false targetReached? true
+
+Estou no meio
+Mapping decode next x= 8.0 y= -2.0 compass_goal= -90.0 compass= 180.0
+xsensor -> 6.989165763813651 xcalculado -> 8.073488372776529 media x -> 8.073488372776529
+ysensor -> 0.0 ycalculado -> 0.04744010405193757 media y -> 0.04744010405193757
+xsensor -> 6.970588235294118 xcalculado -> 8.049616070603074 media x -> 8.049616070603074
+ysensor -> 0.0 ycalculado -> 0.043659102832936544 media y -> 0.043659102832936544
+xsensor -> 6.924242424242424 xcalculado -> 8.038059188150402 media x -> 8.038059188150402
+ysensor -> 0.0 ycalculado -> 0.04012580928514367 media y -> 0.04012580928514367
+xsensor -> 8.03282625705278 xcalculado -> 8.03282625705278 media x -> 8.03282625705278
+ysensor -> -0.2514124293785311 ycalculado -> 0.037104575107281296 media y -> 0.037104575107281296
+xsensor -> 8.030689921878063 xcalculado -> 8.030689921878063 media x -> 8.030689921878063
+ysensor -> -0.38351254480286734 ycalculado -> 0.03496823993256287 media y -> 0.03496823993256287
+xsensor -> 8.005717079168523 xcalculado -> 8.005717079168523 media x -> 8.005717079168523
+ysensor -> -0.010083960900327135 ycalculado -> -0.010083960900327135 media y -> -0.010083960900327135
+xsensor -> 7.9899666648806225 xcalculado -> 7.9899666648806225 media x -> 7.9899666648806225
+ysensor -> -0.08418383419594529 ycalculado -> -0.08418383419594529 media y -> -0.08418383419594529
+xsensor -> 7.985367503811898 xcalculado -> 7.985367503811898 media x -> 7.985367503811898
+ysensor -> -0.1719410551971482 ycalculado -> -0.1719410551971482 media y -> -0.1719410551971482
+xsensor -> 7.9902838821584075 xcalculado -> 7.9902838821584075 media x -> 7.9902838821584075
+ysensor -> -0.26575114243547826 ycalculado -> -0.26575114243547826 media y -> -0.26575114243547826
+xsensor -> 7.991976231775983 xcalculado -> 7.991976231775983 media x -> 7.991976231775983
+ysensor -> -0.3627057870921681 ycalculado -> -0.3627057870921681 media y -> -0.3627057870921681
+xsensor -> 8.002270686831483 xcalculado -> 8.002270686831483 media x -> 8.002270686831483
+ysensor -> -0.4606509843478093 ycalculado -> -0.4606509843478093 media y -> -0.4606509843478093
+xsensor -> 8.004002704718673 xcalculado -> 8.004002704718673 media x -> 8.004002704718673
+ysensor -> -0.5598782226487111 ycalculado -> -0.5598782226487111 media y -> -0.5598782226487111
+xsensor -> 8.016143472111864 xcalculado -> 8.016143472111864 media x -> 8.016143472111864
+ysensor -> -0.6587568382003133 ycalculado -> -0.6587568382003133 media y -> -0.6587568382003133
+xsensor -> 8.033475398890358 xcalculado -> 8.033475398890358 media x -> 8.033475398890358
+ysensor -> -0.7570510794381372 ycalculado -> -0.7570510794381372 media y -> -0.7570510794381372
