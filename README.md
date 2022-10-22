@@ -2,9 +2,12 @@
 
 ## 1 semestre Projects
 
-### AAD: Developed with Marco Ramos
+<hr>
+
+#### AAD: Developed with [Marco Ramos] (https://github.com/MarcoASRamos) in 2021
 * Assigment 1 - Haming Code 
     - Use Quartus and VHDL
+    - Developed with [Marco Ramos] (https://github.com/MarcoASRamos) in 2021
 * Assigment 2 - Proof of Work 
     - Use CUDA
 
@@ -56,3 +59,5 @@
     - Use JAVA
 * Project 3 - Distributed solution to the Restaurant problem based on Java RMI
     - Use JAVA
+
+<br>
