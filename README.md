@@ -46,15 +46,15 @@
 * [Project]() - Accelerating palindrome checking and counting with a Hardware Coprocessor 
     - Use Nexys 4, Vivado, Vitis, VHDL and C
 
-#### EGS: Developed with [Lúcia Sousa](https://github.com/luciasousa), [Rafael Dias]() and [Sérgio Gasalho]() in 2022
+#### EGS: Developed with [Lúcia Sousa](https://github.com/luciasousa), [Rafael Dias](https://github.com/rafaeldsd) and [Sérgio Gasalho](https://github.com/psagasalho) in 2022
 * [Project](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/EGS/Pratica/Projeto)- Photography Course Application 
     - Use Spring, MySQL, Flask, django, Postgre SQL, HTML5, Kubernets and Docker
 
 #### SD: Developed with [Rodrigo Martins](https://github.com/rodrigo740) in 2022
-* [Project 1]() - Concurrent solution to the Restaurant Problem 
+* [Project 1](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/SD/Pratica/Assig1-project) - Concurrent solution to the Restaurant Problem 
     - Use JAVA
-* [Project 2]() - Distributed solution to the Restaurant Problem based on message passing 
+* [Project 2](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/SD/Pratica/Assig2-project) - Distributed solution to the Restaurant Problem based on message passing 
     - Use JAVA
-* [Project 3]() - Distributed solution to the Restaurant problem based on Java RMI
+* [Project 3](https://github.com/RaquelPinto2000/4ano/tree/main/2%20semestre/SD/Pratica/Assig3-project) - Distributed solution to the Restaurant problem based on Java RMI
     - Use JAVA
 
